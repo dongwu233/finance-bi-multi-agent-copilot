@@ -1,0 +1,631 @@
+month,product,market,stock_quantity,stock_value,turnover_days,is_slow_moving
+2025-01,Robot Vacuum,China,25478,5159295.0,67,0
+2025-01,Robot Vacuum,United States,19851,4019827.5,70,0
+2025-01,Robot Vacuum,Germany,10917,2210692.5,36,0
+2025-01,Robot Vacuum,United Kingdom,25573,5178532.5,68,0
+2025-01,Robot Vacuum,Japan,11112,2250180.0,71,0
+2025-01,Robot Vacuum,Rest of Europe,21357,4324792.5,48,0
+2025-01,Robot Vacuum,Rest of Asia,26653,5397232.5,64,0
+2025-01,Wet-Dry Vacuum,China,13779,2314872.0,75,0
+2025-01,Wet-Dry Vacuum,United States,22456,3772608.0,74,0
+2025-01,Wet-Dry Vacuum,Germany,19212,3227616.0,71,0
+2025-01,Wet-Dry Vacuum,United Kingdom,28809,4839912.0,75,0
+2025-01,Wet-Dry Vacuum,Japan,6962,1169616.0,68,0
+2025-01,Wet-Dry Vacuum,Rest of Europe,11574,1944432.0,58,0
+2025-01,Wet-Dry Vacuum,Rest of Asia,20154,3385872.0,44,0
+2025-01,Stick Vacuum,China,12876,1609500.0,44,0
+2025-01,Stick Vacuum,United States,29459,3682375.0,54,0
+2025-01,Stick Vacuum,Germany,19266,2408250.0,61,0
+2025-01,Stick Vacuum,United Kingdom,15441,1930125.0,39,0
+2025-01,Stick Vacuum,Japan,25772,3221500.0,48,0
+2025-01,Stick Vacuum,Rest of Europe,18514,2314250.0,52,0
+2025-01,Stick Vacuum,Rest of Asia,14405,1800625.0,45,0
+2025-01,Washer-Dryer,China,13403,4181736.0,73,0
+2025-01,Washer-Dryer,United States,12737,3973944.0,60,0
+2025-01,Washer-Dryer,Germany,12814,3997968.0,42,0
+2025-01,Washer-Dryer,United Kingdom,9913,3092856.0,47,0
+2025-01,Washer-Dryer,Japan,5907,1842984.0,50,0
+2025-01,Washer-Dryer,Rest of Europe,15175,4734600.0,64,0
+2025-01,Washer-Dryer,Rest of Asia,20905,6522360.0,70,0
+2025-01,Other Smart Home,China,19291,1388952.0,62,0
+2025-01,Other Smart Home,United States,26198,1886256.0,37,0
+2025-01,Other Smart Home,Germany,11618,836496.0,45,0
+2025-01,Other Smart Home,United Kingdom,13936,1003392.0,43,0
+2025-01,Other Smart Home,Japan,5954,428688.0,51,0
+2025-01,Other Smart Home,Rest of Europe,14102,1015344.0,70,0
+2025-01,Other Smart Home,Rest of Asia,10766,775152.0,37,0
+2025-02,Robot Vacuum,China,28674,5806485.0,66,0
+2025-02,Robot Vacuum,United States,5652,1144530.0,38,0
+2025-02,Robot Vacuum,Germany,7750,1569375.0,55,0
+2025-02,Robot Vacuum,United Kingdom,24713,5004382.5,54,0
+2025-02,Robot Vacuum,Japan,7083,1434307.5,61,0
+2025-02,Robot Vacuum,Rest of Europe,16909,3424072.5,40,0
+2025-02,Robot Vacuum,Rest of Asia,18005,3646012.5,43,0
+2025-02,Wet-Dry Vacuum,China,12734,2139312.0,42,0
+2025-02,Wet-Dry Vacuum,United States,23709,3983112.0,67,0
+2025-02,Wet-Dry Vacuum,Germany,8953,1504104.0,68,0
+2025-02,Wet-Dry Vacuum,United Kingdom,26765,4496520.0,72,0
+2025-02,Wet-Dry Vacuum,Japan,22211,3731448.0,51,0
+2025-02,Wet-Dry Vacuum,Rest of Europe,21267,3572856.0,40,0
+2025-02,Wet-Dry Vacuum,Rest of Asia,12801,2150568.0,73,0
+2025-02,Stick Vacuum,China,9006,1125750.0,55,0
+2025-02,Stick Vacuum,United States,15790,1973750.0,72,0
+2025-02,Stick Vacuum,Germany,29157,3644625.0,59,0
+2025-02,Stick Vacuum,United Kingdom,29522,3690250.0,50,0
+2025-02,Stick Vacuum,Japan,18856,2357000.0,48,0
+2025-02,Stick Vacuum,Rest of Europe,9727,1215875.0,41,0
+2025-02,Stick Vacuum,Rest of Asia,10739,1342375.0,48,0
+2025-02,Washer-Dryer,China,13996,4366752.0,63,0
+2025-02,Washer-Dryer,United States,18381,5734872.0,51,0
+2025-02,Washer-Dryer,Germany,24316,7586592.0,38,0
+2025-02,Washer-Dryer,United Kingdom,21068,6573216.0,69,0
+2025-02,Washer-Dryer,Japan,17278,5390736.0,42,0
+2025-02,Washer-Dryer,Rest of Europe,15370,4795440.0,69,0
+2025-02,Washer-Dryer,Rest of Asia,18886,5892432.0,65,0
+2025-02,Other Smart Home,China,27371,1970712.0,50,0
+2025-02,Other Smart Home,United States,14100,1015200.0,44,0
+2025-02,Other Smart Home,Germany,16894,1216368.0,65,0
+2025-02,Other Smart Home,United Kingdom,28451,2048472.0,58,0
+2025-02,Other Smart Home,Japan,15098,1087056.0,36,0
+2025-02,Other Smart Home,Rest of Europe,26148,1882656.0,73,0
+2025-02,Other Smart Home,Rest of Asia,6140,442080.0,38,0
+2025-03,Robot Vacuum,China,27632,5595480.0,50,0
+2025-03,Robot Vacuum,United States,13289,2691022.5,70,0
+2025-03,Robot Vacuum,Germany,17605,3565012.5,54,0
+2025-03,Robot Vacuum,United Kingdom,25937,5252242.5,58,0
+2025-03,Robot Vacuum,Japan,27454,5559435.0,42,0
+2025-03,Robot Vacuum,Rest of Europe,22527,4561717.5,50,0
+2025-03,Robot Vacuum,Rest of Asia,19496,3947940.0,59,0
+2025-03,Wet-Dry Vacuum,China,5257,883176.0,60,0
+2025-03,Wet-Dry Vacuum,United States,13373,2246664.0,54,0
+2025-03,Wet-Dry Vacuum,Germany,7957,1336776.0,50,0
+2025-03,Wet-Dry Vacuum,United Kingdom,14745,2477160.0,48,0
+2025-03,Wet-Dry Vacuum,Japan,10250,1722000.0,63,0
+2025-03,Wet-Dry Vacuum,Rest of Europe,25688,4315584.0,55,0
+2025-03,Wet-Dry Vacuum,Rest of Asia,26116,4387488.0,61,0
+2025-03,Stick Vacuum,China,6110,763750.0,52,0
+2025-03,Stick Vacuum,United States,7624,953000.0,66,0
+2025-03,Stick Vacuum,Germany,20436,2554500.0,61,0
+2025-03,Stick Vacuum,United Kingdom,15902,1987750.0,62,0
+2025-03,Stick Vacuum,Japan,8289,1036125.0,45,0
+2025-03,Stick Vacuum,Rest of Europe,27887,3485875.0,51,0
+2025-03,Stick Vacuum,Rest of Asia,21591,2698875.0,39,0
+2025-03,Washer-Dryer,China,16529,5157048.0,61,0
+2025-03,Washer-Dryer,United States,24730,7715760.0,70,0
+2025-03,Washer-Dryer,Germany,29175,9102600.0,55,0
+2025-03,Washer-Dryer,United Kingdom,19852,6193824.0,36,0
+2025-03,Washer-Dryer,Japan,29968,9350016.0,38,0
+2025-03,Washer-Dryer,Rest of Europe,26016,8116992.0,46,0
+2025-03,Washer-Dryer,Rest of Asia,25648,8002176.0,63,0
+2025-03,Other Smart Home,China,26007,1872504.0,43,0
+2025-03,Other Smart Home,United States,5100,367200.0,60,0
+2025-03,Other Smart Home,Germany,11556,832032.0,75,0
+2025-03,Other Smart Home,United Kingdom,15012,1080864.0,55,0
+2025-03,Other Smart Home,Japan,23868,1718496.0,40,0
+2025-03,Other Smart Home,Rest of Europe,8631,621432.0,45,0
+2025-03,Other Smart Home,Rest of Asia,13179,948888.0,68,0
+2025-04,Robot Vacuum,China,28382,5747355.0,43,0
+2025-04,Robot Vacuum,United States,24464,4953960.0,61,0
+2025-04,Robot Vacuum,Germany,15466,3131865.0,63,0
+2025-04,Robot Vacuum,United Kingdom,20675,4186687.5,43,0
+2025-04,Robot Vacuum,Japan,13541,2742052.5,46,0
+2025-04,Robot Vacuum,Rest of Europe,27526,5574015.0,72,0
+2025-04,Robot Vacuum,Rest of Asia,15734,3186135.0,53,0
+2025-04,Wet-Dry Vacuum,China,11509,1933512.0,40,0
+2025-04,Wet-Dry Vacuum,United States,18582,3121776.0,58,0
+2025-04,Wet-Dry Vacuum,Germany,10960,1841280.0,60,0
+2025-04,Wet-Dry Vacuum,United Kingdom,17364,2917152.0,71,0
+2025-04,Wet-Dry Vacuum,Japan,12355,2075640.0,36,0
+2025-04,Wet-Dry Vacuum,Rest of Europe,5752,966336.0,70,0
+2025-04,Wet-Dry Vacuum,Rest of Asia,26204,4402272.0,74,0
+2025-04,Stick Vacuum,China,25533,3191625.0,49,0
+2025-04,Stick Vacuum,United States,7915,989375.0,64,0
+2025-04,Stick Vacuum,Germany,11496,1437000.0,51,0
+2025-04,Stick Vacuum,United Kingdom,27978,3497250.0,45,0
+2025-04,Stick Vacuum,Japan,6631,828875.0,60,0
+2025-04,Stick Vacuum,Rest of Europe,25250,3156250.0,62,0
+2025-04,Stick Vacuum,Rest of Asia,24673,3084125.0,51,0
+2025-04,Washer-Dryer,China,9890,3085680.0,40,0
+2025-04,Washer-Dryer,United States,17056,5321472.0,45,0
+2025-04,Washer-Dryer,Germany,23587,7359144.0,42,0
+2025-04,Washer-Dryer,United Kingdom,5462,1704144.0,68,0
+2025-04,Washer-Dryer,Japan,19259,6008808.0,64,0
+2025-04,Washer-Dryer,Rest of Europe,27072,8446464.0,66,0
+2025-04,Washer-Dryer,Rest of Asia,8883,2771496.0,49,0
+2025-04,Other Smart Home,China,28382,2043504.0,48,0
+2025-04,Other Smart Home,United States,11243,809496.0,52,0
+2025-04,Other Smart Home,Germany,14435,1039320.0,66,0
+2025-04,Other Smart Home,United Kingdom,17519,1261368.0,43,0
+2025-04,Other Smart Home,Japan,19133,1377576.0,48,0
+2025-04,Other Smart Home,Rest of Europe,24663,1775736.0,48,0
+2025-04,Other Smart Home,Rest of Asia,14272,1027584.0,47,0
+2025-05,Robot Vacuum,China,18707,3788167.5,46,0
+2025-05,Robot Vacuum,United States,18386,3723165.0,44,0
+2025-05,Robot Vacuum,Germany,5942,1203255.0,53,0
+2025-05,Robot Vacuum,United Kingdom,13578,2749545.0,50,0
+2025-05,Robot Vacuum,Japan,25240,5111100.0,63,0
+2025-05,Robot Vacuum,Rest of Europe,13136,2660040.0,58,0
+2025-05,Robot Vacuum,Rest of Asia,24100,4880250.0,64,0
+2025-05,Wet-Dry Vacuum,China,7809,1311912.0,35,0
+2025-05,Wet-Dry Vacuum,United States,20364,3421152.0,43,0
+2025-05,Wet-Dry Vacuum,Germany,15592,2619456.0,60,0
+2025-05,Wet-Dry Vacuum,United Kingdom,27506,4621008.0,48,0
+2025-05,Wet-Dry Vacuum,Japan,28374,4766832.0,59,0
+2025-05,Wet-Dry Vacuum,Rest of Europe,28214,4739952.0,62,0
+2025-05,Wet-Dry Vacuum,Rest of Asia,29120,4892160.0,73,0
+2025-05,Stick Vacuum,China,13396,1674500.0,39,0
+2025-05,Stick Vacuum,United States,8122,1015250.0,70,0
+2025-05,Stick Vacuum,Germany,6925,865625.0,38,0
+2025-05,Stick Vacuum,United Kingdom,15907,1988375.0,50,0
+2025-05,Stick Vacuum,Japan,20431,2553875.0,57,0
+2025-05,Stick Vacuum,Rest of Europe,24869,3108625.0,73,0
+2025-05,Stick Vacuum,Rest of Asia,28251,3531375.0,37,0
+2025-05,Washer-Dryer,China,5175,1614600.0,51,0
+2025-05,Washer-Dryer,United States,21532,6717984.0,74,0
+2025-05,Washer-Dryer,Germany,17482,5454384.0,54,0
+2025-05,Washer-Dryer,United Kingdom,17933,5595096.0,58,0
+2025-05,Washer-Dryer,Japan,9333,2911896.0,70,0
+2025-05,Washer-Dryer,Rest of Europe,6347,1980264.0,72,0
+2025-05,Washer-Dryer,Rest of Asia,10877,3393624.0,51,0
+2025-05,Other Smart Home,China,10566,760752.0,67,0
+2025-05,Other Smart Home,United States,21149,1522728.0,56,0
+2025-05,Other Smart Home,Germany,20338,1464336.0,43,0
+2025-05,Other Smart Home,United Kingdom,7937,571464.0,55,0
+2025-05,Other Smart Home,Japan,28273,2035656.0,68,0
+2025-05,Other Smart Home,Rest of Europe,19186,1381392.0,44,0
+2025-05,Other Smart Home,Rest of Asia,13532,974304.0,42,0
+2025-06,Robot Vacuum,China,15265,3091162.5,37,0
+2025-06,Robot Vacuum,United States,9190,1860975.0,66,0
+2025-06,Robot Vacuum,Germany,14207,2876917.5,58,0
+2025-06,Robot Vacuum,United Kingdom,19093,3866332.5,53,0
+2025-06,Robot Vacuum,Japan,13625,2759062.5,74,0
+2025-06,Robot Vacuum,Rest of Europe,29954,6065685.0,51,0
+2025-06,Robot Vacuum,Rest of Asia,21940,4442850.0,55,0
+2025-06,Wet-Dry Vacuum,China,19279,3238872.0,45,0
+2025-06,Wet-Dry Vacuum,United States,15339,2576952.0,66,0
+2025-06,Wet-Dry Vacuum,Germany,9956,1672608.0,70,0
+2025-06,Wet-Dry Vacuum,United Kingdom,26542,4459056.0,75,0
+2025-06,Wet-Dry Vacuum,Japan,19417,3262056.0,38,0
+2025-06,Wet-Dry Vacuum,Rest of Europe,11190,1879920.0,44,0
+2025-06,Wet-Dry Vacuum,Rest of Asia,6788,1140384.0,49,0
+2025-06,Stick Vacuum,China,11001,1375125.0,37,0
+2025-06,Stick Vacuum,United States,20409,2551125.0,51,0
+2025-06,Stick Vacuum,Germany,10359,1294875.0,64,0
+2025-06,Stick Vacuum,United Kingdom,19300,2412500.0,42,0
+2025-06,Stick Vacuum,Japan,21217,2652125.0,37,0
+2025-06,Stick Vacuum,Rest of Europe,19467,2433375.0,57,0
+2025-06,Stick Vacuum,Rest of Asia,28233,3529125.0,70,0
+2025-06,Washer-Dryer,China,20899,6520488.0,64,0
+2025-06,Washer-Dryer,United States,21154,6600048.0,42,0
+2025-06,Washer-Dryer,Germany,28585,8918520.0,44,0
+2025-06,Washer-Dryer,United Kingdom,9051,2823912.0,57,0
+2025-06,Washer-Dryer,Japan,8066,2516592.0,48,0
+2025-06,Washer-Dryer,Rest of Europe,14309,4464408.0,46,0
+2025-06,Washer-Dryer,Rest of Asia,10514,3280368.0,67,0
+2025-06,Other Smart Home,China,13938,1003536.0,71,0
+2025-06,Other Smart Home,United States,26729,1924488.0,72,0
+2025-06,Other Smart Home,Germany,11959,861048.0,72,0
+2025-06,Other Smart Home,United Kingdom,5135,369720.0,68,0
+2025-06,Other Smart Home,Japan,23703,1706616.0,46,0
+2025-06,Other Smart Home,Rest of Europe,18645,1342440.0,39,0
+2025-06,Other Smart Home,Rest of Asia,13066,940752.0,66,0
+2025-07,Robot Vacuum,China,27180,5503950.0,41,0
+2025-07,Robot Vacuum,United States,15769,3193222.5,36,0
+2025-07,Robot Vacuum,Germany,14315,2898787.5,42,0
+2025-07,Robot Vacuum,United Kingdom,17916,3627990.0,58,0
+2025-07,Robot Vacuum,Japan,24344,4929660.0,41,0
+2025-07,Robot Vacuum,Rest of Europe,15601,3159202.5,44,0
+2025-07,Robot Vacuum,Rest of Asia,5946,1204065.0,40,0
+2025-07,Wet-Dry Vacuum,China,20080,3373440.0,65,0
+2025-07,Wet-Dry Vacuum,United States,19878,3339504.0,75,0
+2025-07,Wet-Dry Vacuum,Germany,13825,2322600.0,73,0
+2025-07,Wet-Dry Vacuum,United Kingdom,26561,4462248.0,35,0
+2025-07,Wet-Dry Vacuum,Japan,15794,2653392.0,37,0
+2025-07,Wet-Dry Vacuum,Rest of Europe,26501,4452168.0,74,0
+2025-07,Wet-Dry Vacuum,Rest of Asia,19847,3334296.0,55,0
+2025-07,Stick Vacuum,China,28971,3621375.0,71,0
+2025-07,Stick Vacuum,United States,9237,1154625.0,48,0
+2025-07,Stick Vacuum,Germany,6595,824375.0,53,0
+2025-07,Stick Vacuum,United Kingdom,15589,1948625.0,38,0
+2025-07,Stick Vacuum,Japan,29372,3671500.0,39,0
+2025-07,Stick Vacuum,Rest of Europe,22929,2866125.0,73,0
+2025-07,Stick Vacuum,Rest of Asia,17497,2187125.0,40,0
+2025-07,Washer-Dryer,China,18069,5637528.0,51,0
+2025-07,Washer-Dryer,United States,10833,3379896.0,50,0
+2025-07,Washer-Dryer,Germany,18071,5638152.0,40,0
+2025-07,Washer-Dryer,United Kingdom,5672,1769664.0,48,0
+2025-07,Washer-Dryer,Japan,10339,3225768.0,59,0
+2025-07,Washer-Dryer,Rest of Europe,18185,5673720.0,53,0
+2025-07,Washer-Dryer,Rest of Asia,26206,8176272.0,44,0
+2025-07,Other Smart Home,China,8951,644472.0,54,0
+2025-07,Other Smart Home,United States,21084,1518048.0,62,0
+2025-07,Other Smart Home,Germany,29113,2096136.0,54,0
+2025-07,Other Smart Home,United Kingdom,27444,1975968.0,73,0
+2025-07,Other Smart Home,Japan,9302,669744.0,57,0
+2025-07,Other Smart Home,Rest of Europe,26807,1930104.0,41,0
+2025-07,Other Smart Home,Rest of Asia,17040,1226880.0,67,0
+2025-08,Robot Vacuum,China,11549,2338672.5,66,0
+2025-08,Robot Vacuum,United States,19596,3968190.0,59,0
+2025-08,Robot Vacuum,Germany,20611,4173727.5,52,0
+2025-08,Robot Vacuum,United Kingdom,23450,4748625.0,73,0
+2025-08,Robot Vacuum,Japan,18863,3819757.5,40,0
+2025-08,Robot Vacuum,Rest of Europe,29788,6032070.0,62,0
+2025-08,Robot Vacuum,Rest of Asia,17066,3455865.0,74,0
+2025-08,Wet-Dry Vacuum,China,11106,1865808.0,62,0
+2025-08,Wet-Dry Vacuum,United States,25666,4311888.0,62,0
+2025-08,Wet-Dry Vacuum,Germany,8045,1351560.0,37,0
+2025-08,Wet-Dry Vacuum,United Kingdom,21821,3665928.0,56,0
+2025-08,Wet-Dry Vacuum,Japan,20188,3391584.0,49,0
+2025-08,Wet-Dry Vacuum,Rest of Europe,26220,4404960.0,44,0
+2025-08,Wet-Dry Vacuum,Rest of Asia,21230,3566640.0,68,0
+2025-08,Stick Vacuum,China,25629,3203625.0,68,0
+2025-08,Stick Vacuum,United States,7751,968875.0,53,0
+2025-08,Stick Vacuum,Germany,20342,2542750.0,62,0
+2025-08,Stick Vacuum,United Kingdom,7594,949250.0,65,0
+2025-08,Stick Vacuum,Japan,14843,1855375.0,44,0
+2025-08,Stick Vacuum,Rest of Europe,9187,1148375.0,54,0
+2025-08,Stick Vacuum,Rest of Asia,13147,1643375.0,68,0
+2025-08,Washer-Dryer,China,19015,5932680.0,53,0
+2025-08,Washer-Dryer,United States,23629,7372248.0,38,0
+2025-08,Washer-Dryer,Germany,23054,7192848.0,39,0
+2025-08,Washer-Dryer,United Kingdom,6477,2020824.0,67,0
+2025-08,Washer-Dryer,Japan,8526,2660112.0,67,0
+2025-08,Washer-Dryer,Rest of Europe,18923,5903976.0,61,0
+2025-08,Washer-Dryer,Rest of Asia,8096,2525952.0,64,0
+2025-08,Other Smart Home,China,26654,1919088.0,71,0
+2025-08,Other Smart Home,United States,13302,957744.0,57,0
+2025-08,Other Smart Home,Germany,13351,961272.0,72,0
+2025-08,Other Smart Home,United Kingdom,7679,552888.0,67,0
+2025-08,Other Smart Home,Japan,5533,398376.0,42,0
+2025-08,Other Smart Home,Rest of Europe,29265,2107080.0,64,0
+2025-08,Other Smart Home,Rest of Asia,10883,783576.0,46,0
+2025-09,Robot Vacuum,China,17876,3619890.0,37,0
+2025-09,Robot Vacuum,United States,7729,1565122.5,61,0
+2025-09,Robot Vacuum,Germany,28081,5686402.5,54,0
+2025-09,Robot Vacuum,United Kingdom,15287,3095617.5,72,0
+2025-09,Robot Vacuum,Japan,28727,5817217.5,64,0
+2025-09,Robot Vacuum,Rest of Europe,29816,6037740.0,63,0
+2025-09,Robot Vacuum,Rest of Asia,25441,5151802.5,51,0
+2025-09,Wet-Dry Vacuum,China,16184,2718912.0,46,0
+2025-09,Wet-Dry Vacuum,United States,11916,2001888.0,46,0
+2025-09,Wet-Dry Vacuum,Germany,7563,1270584.0,73,0
+2025-09,Wet-Dry Vacuum,United Kingdom,13497,2267496.0,41,0
+2025-09,Wet-Dry Vacuum,Japan,19214,3227952.0,69,0
+2025-09,Wet-Dry Vacuum,Rest of Europe,5587,938616.0,35,0
+2025-09,Wet-Dry Vacuum,Rest of Asia,17941,3014088.0,42,0
+2025-09,Stick Vacuum,China,5435,679375.0,45,0
+2025-09,Stick Vacuum,United States,26489,3311125.0,65,0
+2025-09,Stick Vacuum,Germany,20078,2509750.0,60,0
+2025-09,Stick Vacuum,United Kingdom,26552,3319000.0,73,0
+2025-09,Stick Vacuum,Japan,28786,3598250.0,66,0
+2025-09,Stick Vacuum,Rest of Europe,14922,1865250.0,74,0
+2025-09,Stick Vacuum,Rest of Asia,25209,3151125.0,58,0
+2025-09,Washer-Dryer,China,27631,8620872.0,60,0
+2025-09,Washer-Dryer,United States,14917,4654104.0,40,0
+2025-09,Washer-Dryer,Germany,9098,2838576.0,43,0
+2025-09,Washer-Dryer,United Kingdom,5454,1701648.0,47,0
+2025-09,Washer-Dryer,Japan,8667,2704104.0,36,0
+2025-09,Washer-Dryer,Rest of Europe,27807,8675784.0,47,0
+2025-09,Washer-Dryer,Rest of Asia,5878,1833936.0,48,0
+2025-09,Other Smart Home,China,20765,1495080.0,44,0
+2025-09,Other Smart Home,United States,26290,1892880.0,50,0
+2025-09,Other Smart Home,Germany,19279,1388088.0,75,0
+2025-09,Other Smart Home,United Kingdom,22648,1630656.0,47,0
+2025-09,Other Smart Home,Japan,7821,563112.0,54,0
+2025-09,Other Smart Home,Rest of Europe,20185,1453320.0,44,0
+2025-09,Other Smart Home,Rest of Asia,20531,1478232.0,62,0
+2025-10,Robot Vacuum,China,5714,1157085.0,42,0
+2025-10,Robot Vacuum,United States,10442,2114505.0,44,0
+2025-10,Robot Vacuum,Germany,29208,5914620.0,63,0
+2025-10,Robot Vacuum,United Kingdom,20894,4231035.0,65,0
+2025-10,Robot Vacuum,Japan,5643,1142707.5,63,0
+2025-10,Robot Vacuum,Rest of Europe,24176,4895640.0,50,0
+2025-10,Robot Vacuum,Rest of Asia,11597,2348392.5,53,0
+2025-10,Wet-Dry Vacuum,China,23659,3974712.0,60,0
+2025-10,Wet-Dry Vacuum,United States,6668,1120224.0,56,0
+2025-10,Wet-Dry Vacuum,Germany,5258,883344.0,41,0
+2025-10,Wet-Dry Vacuum,United Kingdom,25657,4310376.0,62,0
+2025-10,Wet-Dry Vacuum,Japan,18621,3128328.0,66,0
+2025-10,Wet-Dry Vacuum,Rest of Europe,29152,4897536.0,72,0
+2025-10,Wet-Dry Vacuum,Rest of Asia,24524,4120032.0,70,0
+2025-10,Stick Vacuum,China,14528,1816000.0,37,0
+2025-10,Stick Vacuum,United States,20974,2621750.0,60,0
+2025-10,Stick Vacuum,Germany,20928,2616000.0,67,0
+2025-10,Stick Vacuum,United Kingdom,24367,3045875.0,74,0
+2025-10,Stick Vacuum,Japan,27238,3404750.0,66,0
+2025-10,Stick Vacuum,Rest of Europe,12599,1574875.0,38,0
+2025-10,Stick Vacuum,Rest of Asia,22311,2788875.0,36,0
+2025-10,Washer-Dryer,China,18828,5874336.0,71,0
+2025-10,Washer-Dryer,United States,15349,4788888.0,70,0
+2025-10,Washer-Dryer,Germany,7081,2209272.0,52,0
+2025-10,Washer-Dryer,United Kingdom,26243,8187816.0,61,0
+2025-10,Washer-Dryer,Japan,20510,6399120.0,42,0
+2025-10,Washer-Dryer,Rest of Europe,21213,6618456.0,74,0
+2025-10,Washer-Dryer,Rest of Asia,26174,8166288.0,57,0
+2025-10,Other Smart Home,China,19690,1417680.0,62,0
+2025-10,Other Smart Home,United States,5681,409032.0,45,0
+2025-10,Other Smart Home,Germany,14437,1039464.0,47,0
+2025-10,Other Smart Home,United Kingdom,20376,1467072.0,57,0
+2025-10,Other Smart Home,Japan,19356,1393632.0,49,0
+2025-10,Other Smart Home,Rest of Europe,21634,1557648.0,49,0
+2025-10,Other Smart Home,Rest of Asia,24256,1746432.0,56,0
+2025-11,Robot Vacuum,China,24729,5007622.5,64,0
+2025-11,Robot Vacuum,United States,9297,1882642.5,53,0
+2025-11,Robot Vacuum,Germany,28691,5809927.5,59,0
+2025-11,Robot Vacuum,United Kingdom,18659,3778447.5,58,0
+2025-11,Robot Vacuum,Japan,20477,4146592.5,45,0
+2025-11,Robot Vacuum,Rest of Europe,25376,5138640.0,48,0
+2025-11,Robot Vacuum,Rest of Asia,14255,2886637.5,40,0
+2025-11,Wet-Dry Vacuum,China,26858,4512144.0,65,0
+2025-11,Wet-Dry Vacuum,United States,9230,1550640.0,46,0
+2025-11,Wet-Dry Vacuum,Germany,11536,1938048.0,45,0
+2025-11,Wet-Dry Vacuum,United Kingdom,24849,4174632.0,66,0
+2025-11,Wet-Dry Vacuum,Japan,8306,1395408.0,61,0
+2025-11,Wet-Dry Vacuum,Rest of Europe,21178,3557904.0,54,0
+2025-11,Wet-Dry Vacuum,Rest of Asia,12691,2132088.0,48,0
+2025-11,Stick Vacuum,China,23246,2905750.0,38,0
+2025-11,Stick Vacuum,United States,5594,699250.0,57,0
+2025-11,Stick Vacuum,Germany,13546,1693250.0,57,0
+2025-11,Stick Vacuum,United Kingdom,27181,3397625.0,45,0
+2025-11,Stick Vacuum,Japan,10725,1340625.0,67,0
+2025-11,Stick Vacuum,Rest of Europe,6047,755875.0,39,0
+2025-11,Stick Vacuum,Rest of Asia,16066,2008250.0,62,0
+2025-11,Washer-Dryer,China,8734,2725008.0,74,0
+2025-11,Washer-Dryer,United States,12428,3877536.0,42,0
+2025-11,Washer-Dryer,Germany,23415,7305480.0,49,0
+2025-11,Washer-Dryer,United Kingdom,20937,6532344.0,51,0
+2025-11,Washer-Dryer,Japan,16151,5039112.0,57,0
+2025-11,Washer-Dryer,Rest of Europe,6529,2037048.0,70,0
+2025-11,Washer-Dryer,Rest of Asia,13765,4294680.0,44,0
+2025-11,Other Smart Home,China,27614,1988208.0,67,0
+2025-11,Other Smart Home,United States,24801,1785672.0,41,0
+2025-11,Other Smart Home,Germany,28147,2026584.0,38,0
+2025-11,Other Smart Home,United Kingdom,19346,1392912.0,64,0
+2025-11,Other Smart Home,Japan,29764,2143008.0,42,0
+2025-11,Other Smart Home,Rest of Europe,8469,609768.0,74,0
+2025-11,Other Smart Home,Rest of Asia,24977,1798344.0,41,0
+2025-12,Robot Vacuum,China,23431,4744777.5,37,0
+2025-12,Robot Vacuum,United States,21623,4378657.5,41,0
+2025-12,Robot Vacuum,Germany,10473,2120782.5,75,0
+2025-12,Robot Vacuum,United Kingdom,8868,1795770.0,48,0
+2025-12,Robot Vacuum,Japan,16850,3412125.0,45,0
+2025-12,Robot Vacuum,Rest of Europe,28866,5845365.0,53,0
+2025-12,Robot Vacuum,Rest of Asia,28205,5711512.5,63,0
+2025-12,Wet-Dry Vacuum,China,29968,5034624.0,67,0
+2025-12,Wet-Dry Vacuum,United States,21331,3583608.0,41,0
+2025-12,Wet-Dry Vacuum,Germany,10055,1689240.0,58,0
+2025-12,Wet-Dry Vacuum,United Kingdom,15964,2681952.0,43,0
+2025-12,Wet-Dry Vacuum,Japan,9029,1516872.0,47,0
+2025-12,Wet-Dry Vacuum,Rest of Europe,19388,3257184.0,61,0
+2025-12,Wet-Dry Vacuum,Rest of Asia,5215,876120.0,50,0
+2025-12,Stick Vacuum,China,20521,2565125.0,56,0
+2025-12,Stick Vacuum,United States,14396,1799500.0,67,0
+2025-12,Stick Vacuum,Germany,10611,1326375.0,40,0
+2025-12,Stick Vacuum,United Kingdom,13716,1714500.0,58,0
+2025-12,Stick Vacuum,Japan,28435,3554375.0,61,0
+2025-12,Stick Vacuum,Rest of Europe,16817,2102125.0,75,0
+2025-12,Stick Vacuum,Rest of Asia,26790,3348750.0,50,0
+2025-12,Washer-Dryer,China,9967,3109704.0,68,0
+2025-12,Washer-Dryer,United States,18818,5871216.0,49,0
+2025-12,Washer-Dryer,Germany,9521,2970552.0,62,0
+2025-12,Washer-Dryer,United Kingdom,18546,5786352.0,61,0
+2025-12,Washer-Dryer,Japan,20032,6249984.0,68,0
+2025-12,Washer-Dryer,Rest of Europe,27354,8534448.0,58,0
+2025-12,Washer-Dryer,Rest of Asia,5975,1864200.0,63,0
+2025-12,Other Smart Home,China,9770,703440.0,35,0
+2025-12,Other Smart Home,United States,28515,2053080.0,68,0
+2025-12,Other Smart Home,Germany,7280,524160.0,40,0
+2025-12,Other Smart Home,United Kingdom,16085,1158120.0,55,0
+2025-12,Other Smart Home,Japan,18161,1307592.0,45,0
+2025-12,Other Smart Home,Rest of Europe,19223,1384056.0,38,0
+2025-12,Other Smart Home,Rest of Asia,17886,1287792.0,37,0
+2026-01,Robot Vacuum,China,26632,5392980.0,44,0
+2026-01,Robot Vacuum,United States,23827,4824967.5,38,0
+2026-01,Robot Vacuum,Germany,25696,5203440.0,68,0
+2026-01,Robot Vacuum,United Kingdom,14690,2974725.0,61,0
+2026-01,Robot Vacuum,Japan,18172,3679830.0,70,0
+2026-01,Robot Vacuum,Rest of Europe,14972,3031830.0,55,0
+2026-01,Robot Vacuum,Rest of Asia,16277,3296092.5,35,0
+2026-01,Wet-Dry Vacuum,China,14167,2380056.0,68,0
+2026-01,Wet-Dry Vacuum,United States,25001,4200168.0,44,0
+2026-01,Wet-Dry Vacuum,Germany,27947,4695096.0,60,0
+2026-01,Wet-Dry Vacuum,United Kingdom,19620,3296160.0,48,0
+2026-01,Wet-Dry Vacuum,Japan,22839,3836952.0,74,0
+2026-01,Wet-Dry Vacuum,Rest of Europe,25256,4243008.0,63,0
+2026-01,Wet-Dry Vacuum,Rest of Asia,27854,4679472.0,57,0
+2026-01,Stick Vacuum,China,26258,3282250.0,60,0
+2026-01,Stick Vacuum,United States,11464,1433000.0,54,0
+2026-01,Stick Vacuum,Germany,7761,970125.0,37,0
+2026-01,Stick Vacuum,United Kingdom,22610,2826250.0,56,0
+2026-01,Stick Vacuum,Japan,17779,2222375.0,43,0
+2026-01,Stick Vacuum,Rest of Europe,22054,2756750.0,69,0
+2026-01,Stick Vacuum,Rest of Asia,14303,1787875.0,48,0
+2026-01,Washer-Dryer,China,8041,2508792.0,67,0
+2026-01,Washer-Dryer,United States,23080,7200960.0,54,0
+2026-01,Washer-Dryer,Germany,22083,6889896.0,56,0
+2026-01,Washer-Dryer,United Kingdom,29806,9299472.0,75,0
+2026-01,Washer-Dryer,Japan,10243,3195816.0,36,0
+2026-01,Washer-Dryer,Rest of Europe,5913,1844856.0,69,0
+2026-01,Washer-Dryer,Rest of Asia,24415,7617480.0,51,0
+2026-01,Other Smart Home,China,12908,929376.0,54,0
+2026-01,Other Smart Home,United States,28806,2074032.0,62,0
+2026-01,Other Smart Home,Germany,21556,1552032.0,42,0
+2026-01,Other Smart Home,United Kingdom,28985,2086920.0,38,0
+2026-01,Other Smart Home,Japan,17221,1239912.0,51,0
+2026-01,Other Smart Home,Rest of Europe,25545,1839240.0,67,0
+2026-01,Other Smart Home,Rest of Asia,16615,1196280.0,42,0
+2026-02,Robot Vacuum,China,6564,1329210.0,42,0
+2026-02,Robot Vacuum,United States,19704,3990060.0,54,0
+2026-02,Robot Vacuum,Germany,23757,4810792.5,35,0
+2026-02,Robot Vacuum,United Kingdom,19848,4019220.0,56,0
+2026-02,Robot Vacuum,Japan,12736,2579040.0,72,0
+2026-02,Robot Vacuum,Rest of Europe,23533,4765432.5,75,0
+2026-02,Robot Vacuum,Rest of Asia,67017,13570942.5,168,1
+2026-02,Wet-Dry Vacuum,China,12662,2127216.0,57,0
+2026-02,Wet-Dry Vacuum,United States,14804,2487072.0,53,0
+2026-02,Wet-Dry Vacuum,Germany,26853,4511304.0,71,0
+2026-02,Wet-Dry Vacuum,United Kingdom,27034,4541712.0,43,0
+2026-02,Wet-Dry Vacuum,Japan,28407,4772376.0,59,0
+2026-02,Wet-Dry Vacuum,Rest of Europe,22028,3700704.0,50,0
+2026-02,Wet-Dry Vacuum,Rest of Asia,21120,3548160.0,163,1
+2026-02,Stick Vacuum,China,24083,3010375.0,47,0
+2026-02,Stick Vacuum,United States,16838,2104750.0,64,0
+2026-02,Stick Vacuum,Germany,8210,1026250.0,44,0
+2026-02,Stick Vacuum,United Kingdom,28319,3539875.0,62,0
+2026-02,Stick Vacuum,Japan,18502,2312750.0,40,0
+2026-02,Stick Vacuum,Rest of Europe,8022,1002750.0,38,0
+2026-02,Stick Vacuum,Rest of Asia,47305,5913125.0,160,1
+2026-02,Washer-Dryer,China,12038,3755856.0,63,0
+2026-02,Washer-Dryer,United States,7558,2358096.0,58,0
+2026-02,Washer-Dryer,Germany,27178,8479536.0,68,0
+2026-02,Washer-Dryer,United Kingdom,18197,5677464.0,72,0
+2026-02,Washer-Dryer,Japan,23316,7274592.0,68,0
+2026-02,Washer-Dryer,Rest of Europe,17936,5596032.0,51,0
+2026-02,Washer-Dryer,Rest of Asia,60365,18833880.0,170,1
+2026-02,Other Smart Home,China,18874,1358928.0,63,0
+2026-02,Other Smart Home,United States,27577,1985544.0,66,0
+2026-02,Other Smart Home,Germany,28976,2086272.0,61,0
+2026-02,Other Smart Home,United Kingdom,10336,744192.0,44,0
+2026-02,Other Smart Home,Japan,21573,1553256.0,43,0
+2026-02,Other Smart Home,Rest of Europe,20884,1503648.0,64,0
+2026-02,Other Smart Home,Rest of Asia,23097,1662984.0,163,1
+2026-03,Robot Vacuum,China,8868,1795770.0,48,0
+2026-03,Robot Vacuum,United States,19923,4034407.5,65,0
+2026-03,Robot Vacuum,Germany,6068,1228770.0,45,0
+2026-03,Robot Vacuum,United Kingdom,23318,4721895.0,58,0
+2026-03,Robot Vacuum,Japan,8891,1800427.5,73,0
+2026-03,Robot Vacuum,Rest of Europe,18389,3723772.5,42,0
+2026-03,Robot Vacuum,Rest of Asia,8960,1814400.0,58,0
+2026-03,Wet-Dry Vacuum,China,23735,3987480.0,53,0
+2026-03,Wet-Dry Vacuum,United States,6319,1061592.0,68,0
+2026-03,Wet-Dry Vacuum,Germany,10023,1683864.0,42,0
+2026-03,Wet-Dry Vacuum,United Kingdom,17172,2884896.0,54,0
+2026-03,Wet-Dry Vacuum,Japan,17270,2901360.0,54,0
+2026-03,Wet-Dry Vacuum,Rest of Europe,14633,2458344.0,66,0
+2026-03,Wet-Dry Vacuum,Rest of Asia,5916,993888.0,44,0
+2026-03,Stick Vacuum,China,9657,1207125.0,72,0
+2026-03,Stick Vacuum,United States,18820,2352500.0,38,0
+2026-03,Stick Vacuum,Germany,14999,1874875.0,53,0
+2026-03,Stick Vacuum,United Kingdom,12064,1508000.0,46,0
+2026-03,Stick Vacuum,Japan,29237,3654625.0,66,0
+2026-03,Stick Vacuum,Rest of Europe,5068,633500.0,42,0
+2026-03,Stick Vacuum,Rest of Asia,22941,2867625.0,57,0
+2026-03,Washer-Dryer,China,7213,2250456.0,37,0
+2026-03,Washer-Dryer,United States,18683,5829096.0,65,0
+2026-03,Washer-Dryer,Germany,23778,7418736.0,54,0
+2026-03,Washer-Dryer,United Kingdom,23538,7343856.0,63,0
+2026-03,Washer-Dryer,Japan,16069,5013528.0,59,0
+2026-03,Washer-Dryer,Rest of Europe,20572,6418464.0,73,0
+2026-03,Washer-Dryer,Rest of Asia,9351,2917512.0,43,0
+2026-03,Other Smart Home,China,21540,1550880.0,75,0
+2026-03,Other Smart Home,United States,20103,1447416.0,63,0
+2026-03,Other Smart Home,Germany,26863,1934136.0,63,0
+2026-03,Other Smart Home,United Kingdom,9881,711432.0,55,0
+2026-03,Other Smart Home,Japan,7926,570672.0,74,0
+2026-03,Other Smart Home,Rest of Europe,26774,1927728.0,74,0
+2026-03,Other Smart Home,Rest of Asia,18422,1326384.0,59,0
+2026-04,Robot Vacuum,China,12629,2557372.5,60,0
+2026-04,Robot Vacuum,United States,16108,3261870.0,69,0
+2026-04,Robot Vacuum,Germany,6501,1316452.5,63,0
+2026-04,Robot Vacuum,United Kingdom,29114,5895585.0,52,0
+2026-04,Robot Vacuum,Japan,26165,5298412.5,40,0
+2026-04,Robot Vacuum,Rest of Europe,10426,2111265.0,36,0
+2026-04,Robot Vacuum,Rest of Asia,23743,4807957.5,75,0
+2026-04,Wet-Dry Vacuum,China,28180,4734240.0,54,0
+2026-04,Wet-Dry Vacuum,United States,23384,3928512.0,42,0
+2026-04,Wet-Dry Vacuum,Germany,26099,4384632.0,70,0
+2026-04,Wet-Dry Vacuum,United Kingdom,7790,1308720.0,47,0
+2026-04,Wet-Dry Vacuum,Japan,25273,4245864.0,69,0
+2026-04,Wet-Dry Vacuum,Rest of Europe,23902,4015536.0,38,0
+2026-04,Wet-Dry Vacuum,Rest of Asia,23685,3979080.0,68,0
+2026-04,Stick Vacuum,China,11206,1400750.0,65,0
+2026-04,Stick Vacuum,United States,21470,2683750.0,36,0
+2026-04,Stick Vacuum,Germany,8941,1117625.0,69,0
+2026-04,Stick Vacuum,United Kingdom,10889,1361125.0,36,0
+2026-04,Stick Vacuum,Japan,14009,1751125.0,48,0
+2026-04,Stick Vacuum,Rest of Europe,13037,1629625.0,72,0
+2026-04,Stick Vacuum,Rest of Asia,19556,2444500.0,40,0
+2026-04,Washer-Dryer,China,22483,7014696.0,73,0
+2026-04,Washer-Dryer,United States,15499,4835688.0,60,0
+2026-04,Washer-Dryer,Germany,24296,7580352.0,37,0
+2026-04,Washer-Dryer,United Kingdom,21104,6584448.0,36,0
+2026-04,Washer-Dryer,Japan,16139,5035368.0,62,0
+2026-04,Washer-Dryer,Rest of Europe,10914,3405168.0,61,0
+2026-04,Washer-Dryer,Rest of Asia,5788,1805856.0,68,0
+2026-04,Other Smart Home,China,15399,1108728.0,59,0
+2026-04,Other Smart Home,United States,13427,966744.0,40,0
+2026-04,Other Smart Home,Germany,8756,630432.0,41,0
+2026-04,Other Smart Home,United Kingdom,22753,1638216.0,45,0
+2026-04,Other Smart Home,Japan,14350,1033200.0,44,0
+2026-04,Other Smart Home,Rest of Europe,10985,790920.0,51,0
+2026-04,Other Smart Home,Rest of Asia,7936,571392.0,44,0
+2026-05,Robot Vacuum,China,15053,3048232.5,61,0
+2026-05,Robot Vacuum,United States,27236,5515290.0,45,0
+2026-05,Robot Vacuum,Germany,6930,1403325.0,74,0
+2026-05,Robot Vacuum,United Kingdom,15659,3170947.5,46,0
+2026-05,Robot Vacuum,Japan,5890,1192725.0,38,0
+2026-05,Robot Vacuum,Rest of Europe,14765,2989912.5,59,0
+2026-05,Robot Vacuum,Rest of Asia,8235,1667587.5,55,0
+2026-05,Wet-Dry Vacuum,China,9668,1624224.0,61,0
+2026-05,Wet-Dry Vacuum,United States,15623,2624664.0,51,0
+2026-05,Wet-Dry Vacuum,Germany,17304,2907072.0,42,0
+2026-05,Wet-Dry Vacuum,United Kingdom,6699,1125432.0,47,0
+2026-05,Wet-Dry Vacuum,Japan,12851,2158968.0,73,0
+2026-05,Wet-Dry Vacuum,Rest of Europe,24203,4066104.0,50,0
+2026-05,Wet-Dry Vacuum,Rest of Asia,21153,3553704.0,67,0
+2026-05,Stick Vacuum,China,29654,3706750.0,67,0
+2026-05,Stick Vacuum,United States,17617,2202125.0,42,0
+2026-05,Stick Vacuum,Germany,13824,1728000.0,38,0
+2026-05,Stick Vacuum,United Kingdom,15431,1928875.0,64,0
+2026-05,Stick Vacuum,Japan,23124,2890500.0,61,0
+2026-05,Stick Vacuum,Rest of Europe,7144,893000.0,65,0
+2026-05,Stick Vacuum,Rest of Asia,5947,743375.0,61,0
+2026-05,Washer-Dryer,China,25759,8036808.0,49,0
+2026-05,Washer-Dryer,United States,5610,1750320.0,52,0
+2026-05,Washer-Dryer,Germany,23155,7224360.0,72,0
+2026-05,Washer-Dryer,United Kingdom,27121,8461752.0,41,0
+2026-05,Washer-Dryer,Japan,13071,4078152.0,70,0
+2026-05,Washer-Dryer,Rest of Europe,26350,8221200.0,43,0
+2026-05,Washer-Dryer,Rest of Asia,14981,4674072.0,71,0
+2026-05,Other Smart Home,China,18328,1319616.0,63,0
+2026-05,Other Smart Home,United States,7749,557928.0,75,0
+2026-05,Other Smart Home,Germany,21398,1540656.0,48,0
+2026-05,Other Smart Home,United Kingdom,9665,695880.0,58,0
+2026-05,Other Smart Home,Japan,22709,1635048.0,45,0
+2026-05,Other Smart Home,Rest of Europe,13033,938376.0,69,0
+2026-05,Other Smart Home,Rest of Asia,18885,1359720.0,70,0
+2026-06,Robot Vacuum,China,19802,4009905.0,37,0
+2026-06,Robot Vacuum,United States,5032,1018980.0,64,0
+2026-06,Robot Vacuum,Germany,25340,5131350.0,53,0
+2026-06,Robot Vacuum,United Kingdom,26399,5345797.5,45,0
+2026-06,Robot Vacuum,Japan,5017,1015942.5,38,0
+2026-06,Robot Vacuum,Rest of Europe,20800,4212000.0,52,0
+2026-06,Robot Vacuum,Rest of Asia,24590,4979475.0,51,0
+2026-06,Wet-Dry Vacuum,China,27282,4583376.0,59,0
+2026-06,Wet-Dry Vacuum,United States,16515,2774520.0,75,0
+2026-06,Wet-Dry Vacuum,Germany,11971,2011128.0,72,0
+2026-06,Wet-Dry Vacuum,United Kingdom,21722,3649296.0,53,0
+2026-06,Wet-Dry Vacuum,Japan,6490,1090320.0,45,0
+2026-06,Wet-Dry Vacuum,Rest of Europe,29221,4909128.0,69,0
+2026-06,Wet-Dry Vacuum,Rest of Asia,23451,3939768.0,39,0
+2026-06,Stick Vacuum,China,14851,1856375.0,40,0
+2026-06,Stick Vacuum,United States,17953,2244125.0,42,0
+2026-06,Stick Vacuum,Germany,9576,1197000.0,70,0
+2026-06,Stick Vacuum,United Kingdom,14157,1769625.0,62,0
+2026-06,Stick Vacuum,Japan,11909,1488625.0,74,0
+2026-06,Stick Vacuum,Rest of Europe,21541,2692625.0,55,0
+2026-06,Stick Vacuum,Rest of Asia,27351,3418875.0,56,0
+2026-06,Washer-Dryer,China,25813,8053656.0,51,0
+2026-06,Washer-Dryer,United States,29664,9255168.0,63,0
+2026-06,Washer-Dryer,Germany,13946,4351152.0,50,0
+2026-06,Washer-Dryer,United Kingdom,26701,8330712.0,55,0
+2026-06,Washer-Dryer,Japan,16194,5052528.0,48,0
+2026-06,Washer-Dryer,Rest of Europe,20066,6260592.0,73,0
+2026-06,Washer-Dryer,Rest of Asia,15762,4917744.0,36,0
+2026-06,Other Smart Home,China,27670,1992240.0,43,0
+2026-06,Other Smart Home,United States,26182,1885104.0,35,0
+2026-06,Other Smart Home,Germany,24948,1796256.0,65,0
+2026-06,Other Smart Home,United Kingdom,5140,370080.0,35,0
+2026-06,Other Smart Home,Japan,27043,1947096.0,46,0
+2026-06,Other Smart Home,Rest of Europe,18538,1334736.0,70,0
+2026-06,Other Smart Home,Rest of Asia,27822,2003184.0,66,0

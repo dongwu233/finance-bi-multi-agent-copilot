@@ -1,0 +1,75 @@
+# KPI 指标定义
+
+kpis:
+  revenue:
+    name: "Revenue"
+    formula: "SUM(fact_sales[revenue])"
+    format: "currency"
+
+  cogs:
+    name: "COGS"
+    formula: "SUM(fact_cost[product_cost]) + SUM(fact_cost[freight_cost]) + SUM(fact_cost[tariff_cost])"
+    format: "currency"
+
+  gross_profit:
+    name: "Gross Profit"
+    formula: "Revenue - COGS"
+    format: "currency"
+
+  gross_margin_pct:
+    name: "Gross Margin %"
+    formula: "Gross Profit / Revenue"
+    format: "percent"
+
+  total_expense:
+    name: "Total Expense"
+    formula: "SUM(fact_expense[expense_amount])"
+    format: "currency"
+
+  net_profit:
+    name: "Net Profit"
+    formula: "Gross Profit - Total Expense"
+    format: "currency"
+
+  net_profit_pct:
+    name: "Net Profit %"
+    formula: "Net Profit / Revenue"
+    format: "percent"
+
+  expense_ratio:
+    name: "Expense Ratio"
+    formula: "Total Expense / Revenue"
+    format: "percent"
+
+  budget_achievement_pct:
+    name: "Budget Achievement %"
+    formula: "Revenue / Budget Revenue"
+    format: "percent"
+
+  budget_variance:
+    name: "Budget Variance"
+    formula: "Revenue - Budget Revenue"
+    format: "currency"
+
+  ad_roas:
+    name: "Ad ROAS"
+    formula: "Revenue / Advertising Expense"
+    format: "ratio"
+
+  inventory_turnover_days:
+    name: "Inventory Turnover Days"
+    formula: "Average Inventory / (COGS / 30)"
+    format: "days"
+
+  product_contribution_profit:
+    name: "Product Contribution Profit"
+    formula: "Product Revenue - Product COGS - Product Direct Expense"
+    format: "currency"
+
+anomaly_rules:
+  gross_margin_drop_pct: 3.0
+  expense_over_budget_pct: 15.0
+  ad_roas_min: 2.0
+  net_profit_yoy_drop_pct: 20.0
+  inventory_turnover_max_days: 120
+  negative_contribution_revenue_share_pct: 5.0

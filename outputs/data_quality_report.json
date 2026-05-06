@@ -1,0 +1,40 @@
+{
+  "total_checks": 6,
+  "passed": 3,
+  "failed": 3,
+  "health_score": 50.0,
+  "checks": [
+    {
+      "check_name": "SKU mapping check",
+      "status": "failed",
+      "issue_count": 57,
+      "impact_amount": 18439182.14,
+      "recommendation": "补充新品 SKU 主数据（Roborock H1 (Unreleased)），检查产品维表维护流程。"
+    },
+    {
+      "check_name": "market completeness in fact_sales",
+      "status": "passed",
+      "issue_count": 0
+    },
+    {
+      "check_name": "channel completeness in fact_sales",
+      "status": "passed",
+      "issue_count": 0
+    },
+    {
+      "check_name": "FX rate completeness",
+      "status": "passed",
+      "issue_count": 0
+    },
+    {
+      "check_name": "duplicate import check",
+      "status": "failed",
+      "issue_count": 2
+    },
+    {
+      "check_name": "gross margin range check",
+      "status": "failed",
+      "issue_count": 2
+    }
+  ]
+}

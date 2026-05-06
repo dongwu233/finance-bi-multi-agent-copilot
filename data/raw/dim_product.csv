@@ -1,0 +1,6 @@
+product_key,product_name,category,avg_price_usd,cost_ratio,description
+1,Robot Vacuum,Smart Cleaning,450,0.45,扫地机器人（T8/S8/V 系列）
+2,Wet-Dry Vacuum,Smart Cleaning,350,0.48,洗地机（Flexi 系列）
+3,Stick Vacuum,Smart Cleaning,250,0.5,手持无线吸尘器
+4,Washer-Dryer,Smart Cleaning,600,0.52,洗烘一体机（Zeo 系列）
+5,Other Smart Home,Smart Cleaning,150,0.48,其他智能家居产品

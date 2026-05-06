@@ -1,0 +1,6 @@
+channel_key,channel_name,channel_type,revenue_share
+1,Amazon,Online,0.35
+2,Official Website,Online,0.15
+3,Offline Retail,Offline,0.2
+4,Distributors,Offline,0.2
+5,Other E-commerce,Online,0.1

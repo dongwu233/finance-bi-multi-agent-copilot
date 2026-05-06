@@ -1,0 +1,757 @@
+month,market,expense_type,department,expense_amount
+2025-01,China,Advertising & Marketing,Marketing,5056583.63
+2025-01,China,R&D,R&D,2404637.4
+2025-01,China,Admin & General,Finance,946648.52
+2025-01,China,Logistics & Warehousing,Operations,1220200.76
+2025-01,China,After-sales Service,Operations,391697.17
+2025-01,China,Platform Commissions,Sales,700741.78
+2025-01,United States,Advertising & Marketing,Marketing,1372655.38
+2025-01,United States,R&D,R&D,761431.83
+2025-01,United States,Admin & General,Finance,411653.99
+2025-01,United States,Logistics & Warehousing,Operations,488930.9
+2025-01,United States,After-sales Service,Operations,161577.48
+2025-01,United States,Platform Commissions,Sales,211070.41
+2025-01,Germany,Advertising & Marketing,Marketing,494426.54
+2025-01,Germany,R&D,R&D,219025.06
+2025-01,Germany,Admin & General,Finance,112879.44
+2025-01,Germany,Logistics & Warehousing,Operations,149300.25
+2025-01,Germany,After-sales Service,Operations,47147.7
+2025-01,Germany,Platform Commissions,Sales,70167.86
+2025-01,United Kingdom,Advertising & Marketing,Marketing,269773.38
+2025-01,United Kingdom,R&D,R&D,141464.9
+2025-01,United Kingdom,Admin & General,Finance,72932.59
+2025-01,United Kingdom,Logistics & Warehousing,Operations,78612.5
+2025-01,United Kingdom,After-sales Service,Operations,27817.61
+2025-01,United Kingdom,Platform Commissions,Sales,45446.1
+2025-01,Japan,Advertising & Marketing,Marketing,356171.34
+2025-01,Japan,R&D,R&D,227780.21
+2025-01,Japan,Admin & General,Finance,115043.97
+2025-01,Japan,Logistics & Warehousing,Operations,111715.53
+2025-01,Japan,After-sales Service,Operations,46376.95
+2025-01,Japan,Platform Commissions,Sales,60370.56
+2025-01,Rest of Europe,Advertising & Marketing,Marketing,425422.68
+2025-01,Rest of Europe,R&D,R&D,194026.71
+2025-01,Rest of Europe,Admin & General,Finance,111506.08
+2025-01,Rest of Europe,Logistics & Warehousing,Operations,132786.1
+2025-01,Rest of Europe,After-sales Service,Operations,37508.87
+2025-01,Rest of Europe,Platform Commissions,Sales,54113.14
+2025-01,Rest of Asia,Advertising & Marketing,Marketing,249074.51
+2025-01,Rest of Asia,R&D,R&D,148574.15
+2025-01,Rest of Asia,Admin & General,Finance,77090.94
+2025-01,Rest of Asia,Logistics & Warehousing,Operations,97079.11
+2025-01,Rest of Asia,After-sales Service,Operations,28822.56
+2025-01,Rest of Asia,Platform Commissions,Sales,38688.14
+2025-02,China,Advertising & Marketing,Marketing,3876233.12
+2025-02,China,R&D,R&D,2319674.3
+2025-02,China,Admin & General,Finance,989592.56
+2025-02,China,Logistics & Warehousing,Operations,1318636.21
+2025-02,China,After-sales Service,Operations,371250.66
+2025-02,China,Platform Commissions,Sales,644998.83
+2025-02,United States,Advertising & Marketing,Marketing,1429048.4
+2025-02,United States,R&D,R&D,827172.78
+2025-02,United States,Admin & General,Finance,403359.53
+2025-02,United States,Logistics & Warehousing,Operations,444798.24
+2025-02,United States,After-sales Service,Operations,147862.17
+2025-02,United States,Platform Commissions,Sales,212258.42
+2025-02,Germany,Advertising & Marketing,Marketing,380746.02
+2025-02,Germany,R&D,R&D,202841.63
+2025-02,Germany,Admin & General,Finance,113131.53
+2025-02,Germany,Logistics & Warehousing,Operations,143176.05
+2025-02,Germany,After-sales Service,Operations,45032.21
+2025-02,Germany,Platform Commissions,Sales,64551.27
+2025-02,United Kingdom,Advertising & Marketing,Marketing,303208.52
+2025-02,United Kingdom,R&D,R&D,139546.93
+2025-02,United Kingdom,Admin & General,Finance,74208.77
+2025-02,United Kingdom,Logistics & Warehousing,Operations,71293.51
+2025-02,United Kingdom,After-sales Service,Operations,16855.11
+2025-02,United Kingdom,Platform Commissions,Sales,42780.3
+2025-02,Japan,Advertising & Marketing,Marketing,332945.72
+2025-02,Japan,R&D,R&D,190007.77
+2025-02,Japan,Admin & General,Finance,94133.73
+2025-02,Japan,Logistics & Warehousing,Operations,140592.93
+2025-02,Japan,After-sales Service,Operations,40379.47
+2025-02,Japan,Platform Commissions,Sales,59205.6
+2025-02,Rest of Europe,Advertising & Marketing,Marketing,420761.66
+2025-02,Rest of Europe,R&D,R&D,201285.87
+2025-02,Rest of Europe,Admin & General,Finance,92623.58
+2025-02,Rest of Europe,Logistics & Warehousing,Operations,134333.08
+2025-02,Rest of Europe,After-sales Service,Operations,34517.67
+2025-02,Rest of Europe,Platform Commissions,Sales,60122.22
+2025-02,Rest of Asia,Advertising & Marketing,Marketing,234412.63
+2025-02,Rest of Asia,R&D,R&D,141493.82
+2025-02,Rest of Asia,Admin & General,Finance,70670.96
+2025-02,Rest of Asia,Logistics & Warehousing,Operations,101195.32
+2025-02,Rest of Asia,After-sales Service,Operations,23393.0
+2025-02,Rest of Asia,Platform Commissions,Sales,39100.07
+2025-03,China,Advertising & Marketing,Marketing,5569578.17
+2025-03,China,R&D,R&D,2659384.94
+2025-03,China,Admin & General,Finance,1309749.34
+2025-03,China,Logistics & Warehousing,Operations,1454425.39
+2025-03,China,After-sales Service,Operations,484216.12
+2025-03,China,Platform Commissions,Sales,868039.91
+2025-03,United States,Advertising & Marketing,Marketing,1843092.33
+2025-03,United States,R&D,R&D,961087.78
+2025-03,United States,Admin & General,Finance,457823.73
+2025-03,United States,Logistics & Warehousing,Operations,510453.92
+2025-03,United States,After-sales Service,Operations,202563.61
+2025-03,United States,Platform Commissions,Sales,291879.86
+2025-03,Germany,Advertising & Marketing,Marketing,675491.99
+2025-03,Germany,R&D,R&D,246590.36
+2025-03,Germany,Admin & General,Finance,148520.58
+2025-03,Germany,Logistics & Warehousing,Operations,149042.02
+2025-03,Germany,After-sales Service,Operations,55756.61
+2025-03,Germany,Platform Commissions,Sales,90379.83
+2025-03,United Kingdom,Advertising & Marketing,Marketing,271989.64
+2025-03,United Kingdom,R&D,R&D,168024.87
+2025-03,United Kingdom,Admin & General,Finance,80939.49
+2025-03,United Kingdom,Logistics & Warehousing,Operations,99686.81
+2025-03,United Kingdom,After-sales Service,Operations,35629.65
+2025-03,United Kingdom,Platform Commissions,Sales,57229.37
+2025-03,Japan,Advertising & Marketing,Marketing,473911.26
+2025-03,Japan,R&D,R&D,245091.29
+2025-03,Japan,Admin & General,Finance,121450.8
+2025-03,Japan,Logistics & Warehousing,Operations,150124.82
+2025-03,Japan,After-sales Service,Operations,42799.03
+2025-03,Japan,Platform Commissions,Sales,80032.92
+2025-03,Rest of Europe,Advertising & Marketing,Marketing,494491.42
+2025-03,Rest of Europe,R&D,R&D,249639.73
+2025-03,Rest of Europe,Admin & General,Finance,110393.78
+2025-03,Rest of Europe,Logistics & Warehousing,Operations,143204.96
+2025-03,Rest of Europe,After-sales Service,Operations,47185.29
+2025-03,Rest of Europe,Platform Commissions,Sales,60994.02
+2025-03,Rest of Asia,Advertising & Marketing,Marketing,285167.4
+2025-03,Rest of Asia,R&D,R&D,161235.04
+2025-03,Rest of Asia,Admin & General,Finance,90251.81
+2025-03,Rest of Asia,Logistics & Warehousing,Operations,100210.22
+2025-03,Rest of Asia,After-sales Service,Operations,30812.73
+2025-03,Rest of Asia,Platform Commissions,Sales,47269.54
+2025-04,China,Advertising & Marketing,Marketing,5298429.49
+2025-04,China,R&D,R&D,2677382.49
+2025-04,China,Admin & General,Finance,1688330.8
+2025-04,China,Logistics & Warehousing,Operations,1917700.01
+2025-04,China,After-sales Service,Operations,612007.16
+2025-04,China,Platform Commissions,Sales,929985.2
+2025-04,United States,Advertising & Marketing,Marketing,1798824.16
+2025-04,United States,R&D,R&D,877075.23
+2025-04,United States,Admin & General,Finance,444307.81
+2025-04,United States,Logistics & Warehousing,Operations,707851.13
+2025-04,United States,After-sales Service,Operations,188907.91
+2025-04,United States,Platform Commissions,Sales,262253.51
+2025-04,Germany,Advertising & Marketing,Marketing,566607.42
+2025-04,Germany,R&D,R&D,288999.7
+2025-04,Germany,Admin & General,Finance,152005.35
+2025-04,Germany,Logistics & Warehousing,Operations,189683.57
+2025-04,Germany,After-sales Service,Operations,54308.9
+2025-04,Germany,Platform Commissions,Sales,94909.13
+2025-04,United Kingdom,Advertising & Marketing,Marketing,346424.67
+2025-04,United Kingdom,R&D,R&D,182148.23
+2025-04,United Kingdom,Admin & General,Finance,98874.02
+2025-04,United Kingdom,Logistics & Warehousing,Operations,108227.32
+2025-04,United Kingdom,After-sales Service,Operations,34900.94
+2025-04,United Kingdom,Platform Commissions,Sales,58796.46
+2025-04,Japan,Advertising & Marketing,Marketing,473671.74
+2025-04,Japan,R&D,R&D,249087.69
+2025-04,Japan,Admin & General,Finance,136726.4
+2025-04,Japan,Logistics & Warehousing,Operations,195167.78
+2025-04,Japan,After-sales Service,Operations,54947.86
+2025-04,Japan,Platform Commissions,Sales,81389.99
+2025-04,Rest of Europe,Advertising & Marketing,Marketing,545613.38
+2025-04,Rest of Europe,R&D,R&D,231254.33
+2025-04,Rest of Europe,Admin & General,Finance,131025.28
+2025-04,Rest of Europe,Logistics & Warehousing,Operations,161428.03
+2025-04,Rest of Europe,After-sales Service,Operations,53477.36
+2025-04,Rest of Europe,Platform Commissions,Sales,78622.25
+2025-04,Rest of Asia,Advertising & Marketing,Marketing,384131.87
+2025-04,Rest of Asia,R&D,R&D,179276.58
+2025-04,Rest of Asia,Admin & General,Finance,93062.24
+2025-04,Rest of Asia,Logistics & Warehousing,Operations,101450.15
+2025-04,Rest of Asia,After-sales Service,Operations,35824.08
+2025-04,Rest of Asia,Platform Commissions,Sales,63232.79
+2025-05,China,Advertising & Marketing,Marketing,6159894.63
+2025-05,China,R&D,R&D,2978545.24
+2025-05,China,Admin & General,Finance,1775371.33
+2025-05,China,Logistics & Warehousing,Operations,1611630.69
+2025-05,China,After-sales Service,Operations,530728.11
+2025-05,China,Platform Commissions,Sales,1048799.42
+2025-05,United States,Advertising & Marketing,Marketing,2158925.83
+2025-05,United States,R&D,R&D,1048458.16
+2025-05,United States,Admin & General,Finance,472833.44
+2025-05,United States,Logistics & Warehousing,Operations,701643.97
+2025-05,United States,After-sales Service,Operations,226605.57
+2025-05,United States,Platform Commissions,Sales,287075.47
+2025-05,Germany,Advertising & Marketing,Marketing,627823.02
+2025-05,Germany,R&D,R&D,307695.5
+2025-05,Germany,Admin & General,Finance,163263.65
+2025-05,Germany,Logistics & Warehousing,Operations,176714.47
+2025-05,Germany,After-sales Service,Operations,71647.35
+2025-05,Germany,Platform Commissions,Sales,104260.6
+2025-05,United Kingdom,Advertising & Marketing,Marketing,383518.59
+2025-05,United Kingdom,R&D,R&D,194679.55
+2025-05,United Kingdom,Admin & General,Finance,98135.69
+2025-05,United Kingdom,Logistics & Warehousing,Operations,114686.71
+2025-05,United Kingdom,After-sales Service,Operations,38032.47
+2025-05,United Kingdom,Platform Commissions,Sales,58082.39
+2025-05,Japan,Advertising & Marketing,Marketing,647023.44
+2025-05,Japan,R&D,R&D,304951.3
+2025-05,Japan,Admin & General,Finance,152309.01
+2025-05,Japan,Logistics & Warehousing,Operations,180553.61
+2025-05,Japan,After-sales Service,Operations,49490.77
+2025-05,Japan,Platform Commissions,Sales,83227.35
+2025-05,Rest of Europe,Advertising & Marketing,Marketing,611232.56
+2025-05,Rest of Europe,R&D,R&D,243527.59
+2025-05,Rest of Europe,Admin & General,Finance,148156.75
+2025-05,Rest of Europe,Logistics & Warehousing,Operations,214552.32
+2025-05,Rest of Europe,After-sales Service,Operations,61632.1
+2025-05,Rest of Europe,Platform Commissions,Sales,95391.74
+2025-05,Rest of Asia,Advertising & Marketing,Marketing,406661.23
+2025-05,Rest of Asia,R&D,R&D,218246.47
+2025-05,Rest of Asia,Admin & General,Finance,92350.85
+2025-05,Rest of Asia,Logistics & Warehousing,Operations,134264.1
+2025-05,Rest of Asia,After-sales Service,Operations,42401.48
+2025-05,Rest of Asia,Platform Commissions,Sales,61426.44
+2025-06,China,Advertising & Marketing,Marketing,7606388.24
+2025-06,China,R&D,R&D,3179817.45
+2025-06,China,Admin & General,Finance,1649014.7
+2025-06,China,Logistics & Warehousing,Operations,2120613.33
+2025-06,China,After-sales Service,Operations,602971.16
+2025-06,China,Platform Commissions,Sales,1031150.1
+2025-06,United States,Advertising & Marketing,Marketing,2003891.49
+2025-06,United States,R&D,R&D,1336596.55
+2025-06,United States,Admin & General,Finance,607782.93
+2025-06,United States,Logistics & Warehousing,Operations,716811.92
+2025-06,United States,After-sales Service,Operations,221794.06
+2025-06,United States,Platform Commissions,Sales,354462.25
+2025-06,Germany,Advertising & Marketing,Marketing,766339.1
+2025-06,Germany,R&D,R&D,378131.94
+2025-06,Germany,Admin & General,Finance,166601.25
+2025-06,Germany,Logistics & Warehousing,Operations,205103.48
+2025-06,Germany,After-sales Service,Operations,76409.05
+2025-06,Germany,Platform Commissions,Sales,99779.97
+2025-06,United Kingdom,Advertising & Marketing,Marketing,450804.34
+2025-06,United Kingdom,R&D,R&D,226832.68
+2025-06,United Kingdom,Admin & General,Finance,115525.95
+2025-06,United Kingdom,Logistics & Warehousing,Operations,152056.39
+2025-06,United Kingdom,After-sales Service,Operations,39152.38
+2025-06,United Kingdom,Platform Commissions,Sales,54371.53
+2025-06,Japan,Advertising & Marketing,Marketing,591767.74
+2025-06,Japan,R&D,R&D,370194.79
+2025-06,Japan,Admin & General,Finance,188558.04
+2025-06,Japan,Logistics & Warehousing,Operations,231953.01
+2025-06,Japan,After-sales Service,Operations,61526.05
+2025-06,Japan,Platform Commissions,Sales,77334.51
+2025-06,Rest of Europe,Advertising & Marketing,Marketing,480372.87
+2025-06,Rest of Europe,R&D,R&D,294422.39
+2025-06,Rest of Europe,Admin & General,Finance,153735.26
+2025-06,Rest of Europe,Logistics & Warehousing,Operations,221551.42
+2025-06,Rest of Europe,After-sales Service,Operations,68181.08
+2025-06,Rest of Europe,Platform Commissions,Sales,96245.13
+2025-06,Rest of Asia,Advertising & Marketing,Marketing,408243.97
+2025-06,Rest of Asia,R&D,R&D,202532.62
+2025-06,Rest of Asia,Admin & General,Finance,114876.91
+2025-06,Rest of Asia,Logistics & Warehousing,Operations,149798.72
+2025-06,Rest of Asia,After-sales Service,Operations,46568.06
+2025-06,Rest of Asia,Platform Commissions,Sales,60263.59
+2025-07,China,Advertising & Marketing,Marketing,6598910.49
+2025-07,China,R&D,R&D,3229828.2
+2025-07,China,Admin & General,Finance,1383102.81
+2025-07,China,Logistics & Warehousing,Operations,1784320.1
+2025-07,China,After-sales Service,Operations,662234.81
+2025-07,China,Platform Commissions,Sales,907571.43
+2025-07,United States,Advertising & Marketing,Marketing,2584933.59
+2025-07,United States,R&D,R&D,1171126.79
+2025-07,United States,Admin & General,Finance,530483.95
+2025-07,United States,Logistics & Warehousing,Operations,696312.96
+2025-07,United States,After-sales Service,Operations,224461.53
+2025-07,United States,Platform Commissions,Sales,310201.79
+2025-07,Germany,Advertising & Marketing,Marketing,600570.97
+2025-07,Germany,R&D,R&D,353617.97
+2025-07,Germany,Admin & General,Finance,179186.23
+2025-07,Germany,Logistics & Warehousing,Operations,218995.36
+2025-07,Germany,After-sales Service,Operations,76102.7
+2025-07,Germany,Platform Commissions,Sales,93761.62
+2025-07,United Kingdom,Advertising & Marketing,Marketing,482207.44
+2025-07,United Kingdom,R&D,R&D,187919.38
+2025-07,United Kingdom,Admin & General,Finance,92805.58
+2025-07,United Kingdom,Logistics & Warehousing,Operations,106361.28
+2025-07,United Kingdom,After-sales Service,Operations,39463.78
+2025-07,United Kingdom,Platform Commissions,Sales,58836.77
+2025-07,Japan,Advertising & Marketing,Marketing,608685.51
+2025-07,Japan,R&D,R&D,296187.78
+2025-07,Japan,Admin & General,Finance,127321.43
+2025-07,Japan,Logistics & Warehousing,Operations,173613.05
+2025-07,Japan,After-sales Service,Operations,55679.14
+2025-07,Japan,Platform Commissions,Sales,71335.79
+2025-07,Rest of Europe,Advertising & Marketing,Marketing,521546.62
+2025-07,Rest of Europe,R&D,R&D,266849.01
+2025-07,Rest of Europe,Admin & General,Finance,165293.64
+2025-07,Rest of Europe,Logistics & Warehousing,Operations,184169.71
+2025-07,Rest of Europe,After-sales Service,Operations,61656.34
+2025-07,Rest of Europe,Platform Commissions,Sales,73741.52
+2025-07,Rest of Asia,Advertising & Marketing,Marketing,462378.65
+2025-07,Rest of Asia,R&D,R&D,233396.83
+2025-07,Rest of Asia,Admin & General,Finance,82627.38
+2025-07,Rest of Asia,Logistics & Warehousing,Operations,119974.45
+2025-07,Rest of Asia,After-sales Service,Operations,43352.91
+2025-07,Rest of Asia,Platform Commissions,Sales,65950.2
+2025-08,China,Advertising & Marketing,Marketing,5574118.46
+2025-08,China,R&D,R&D,2898581.98
+2025-08,China,Admin & General,Finance,1405655.8
+2025-08,China,Logistics & Warehousing,Operations,1889336.35
+2025-08,China,After-sales Service,Operations,669574.26
+2025-08,China,Platform Commissions,Sales,827816.48
+2025-08,United States,Advertising & Marketing,Marketing,2368196.44
+2025-08,United States,R&D,R&D,992235.6
+2025-08,United States,Admin & General,Finance,492568.18
+2025-08,United States,Logistics & Warehousing,Operations,727802.45
+2025-08,United States,After-sales Service,Operations,235121.47
+2025-08,United States,Platform Commissions,Sales,350404.82
+2025-08,Germany,Advertising & Marketing,Marketing,1107844.51
+2025-08,Germany,R&D,R&D,304064.87
+2025-08,Germany,Admin & General,Finance,172586.2
+2025-08,Germany,Logistics & Warehousing,Operations,200156.31
+2025-08,Germany,After-sales Service,Operations,56936.49
+2025-08,Germany,Platform Commissions,Sales,100062.64
+2025-08,United Kingdom,Advertising & Marketing,Marketing,370160.27
+2025-08,United Kingdom,R&D,R&D,235098.22
+2025-08,United Kingdom,Admin & General,Finance,115060.66
+2025-08,United Kingdom,Logistics & Warehousing,Operations,132106.02
+2025-08,United Kingdom,After-sales Service,Operations,45291.4
+2025-08,United Kingdom,Platform Commissions,Sales,60185.92
+2025-08,Japan,Advertising & Marketing,Marketing,600839.68
+2025-08,Japan,R&D,R&D,320296.77
+2025-08,Japan,Admin & General,Finance,142955.22
+2025-08,Japan,Logistics & Warehousing,Operations,169961.46
+2025-08,Japan,After-sales Service,Operations,46298.09
+2025-08,Japan,Platform Commissions,Sales,83021.9
+2025-08,Rest of Europe,Advertising & Marketing,Marketing,604075.97
+2025-08,Rest of Europe,R&D,R&D,305448.38
+2025-08,Rest of Europe,Admin & General,Finance,146567.18
+2025-08,Rest of Europe,Logistics & Warehousing,Operations,164971.31
+2025-08,Rest of Europe,After-sales Service,Operations,44778.89
+2025-08,Rest of Europe,Platform Commissions,Sales,79572.04
+2025-08,Rest of Asia,Advertising & Marketing,Marketing,386523.63
+2025-08,Rest of Asia,R&D,R&D,193090.71
+2025-08,Rest of Asia,Admin & General,Finance,105828.92
+2025-08,Rest of Asia,Logistics & Warehousing,Operations,149317.76
+2025-08,Rest of Asia,After-sales Service,Operations,40358.11
+2025-08,Rest of Asia,Platform Commissions,Sales,58502.46
+2025-09,China,Advertising & Marketing,Marketing,6593516.89
+2025-09,China,R&D,R&D,3426589.78
+2025-09,China,Admin & General,Finance,1552078.25
+2025-09,China,Logistics & Warehousing,Operations,2140733.1
+2025-09,China,After-sales Service,Operations,707413.79
+2025-09,China,Platform Commissions,Sales,1036637.98
+2025-09,United States,Advertising & Marketing,Marketing,2548329.52
+2025-09,United States,R&D,R&D,1271265.62
+2025-09,United States,Admin & General,Finance,501263.08
+2025-09,United States,Logistics & Warehousing,Operations,810009.01
+2025-09,United States,After-sales Service,Operations,227331.89
+2025-09,United States,Platform Commissions,Sales,325469.45
+2025-09,Germany,Advertising & Marketing,Marketing,642280.75
+2025-09,Germany,R&D,R&D,376663.86
+2025-09,Germany,Admin & General,Finance,176488.62
+2025-09,Germany,Logistics & Warehousing,Operations,187682.06
+2025-09,Germany,After-sales Service,Operations,75654.05
+2025-09,Germany,Platform Commissions,Sales,92712.25
+2025-09,United Kingdom,Advertising & Marketing,Marketing,457575.24
+2025-09,United Kingdom,R&D,R&D,231014.11
+2025-09,United Kingdom,Admin & General,Finance,122807.16
+2025-09,United Kingdom,Logistics & Warehousing,Operations,166145.9
+2025-09,United Kingdom,After-sales Service,Operations,38968.24
+2025-09,United Kingdom,Platform Commissions,Sales,67334.64
+2025-09,Japan,Advertising & Marketing,Marketing,614313.73
+2025-09,Japan,R&D,R&D,329587.45
+2025-09,Japan,Admin & General,Finance,161349.29
+2025-09,Japan,Logistics & Warehousing,Operations,190468.42
+2025-09,Japan,After-sales Service,Operations,60391.69
+2025-09,Japan,Platform Commissions,Sales,84185.64
+2025-09,Rest of Europe,Advertising & Marketing,Marketing,694182.12
+2025-09,Rest of Europe,R&D,R&D,330391.52
+2025-09,Rest of Europe,Admin & General,Finance,172438.46
+2025-09,Rest of Europe,Logistics & Warehousing,Operations,191300.58
+2025-09,Rest of Europe,After-sales Service,Operations,59027.48
+2025-09,Rest of Europe,Platform Commissions,Sales,84547.04
+2025-09,Rest of Asia,Advertising & Marketing,Marketing,467462.3
+2025-09,Rest of Asia,R&D,R&D,202171.65
+2025-09,Rest of Asia,Admin & General,Finance,133672.35
+2025-09,Rest of Asia,Logistics & Warehousing,Operations,122580.05
+2025-09,Rest of Asia,After-sales Service,Operations,46361.49
+2025-09,Rest of Asia,Platform Commissions,Sales,78295.85
+2025-10,China,Advertising & Marketing,Marketing,8040083.5
+2025-10,China,R&D,R&D,3859447.75
+2025-10,China,Admin & General,Finance,1712744.85
+2025-10,China,Logistics & Warehousing,Operations,2042961.26
+2025-10,China,After-sales Service,Operations,816976.78
+2025-10,China,Platform Commissions,Sales,1309221.64
+2025-10,United States,Advertising & Marketing,Marketing,2610986.47
+2025-10,United States,R&D,R&D,1209885.34
+2025-10,United States,Admin & General,Finance,514886.22
+2025-10,United States,Logistics & Warehousing,Operations,769687.12
+2025-10,United States,After-sales Service,Operations,269979.12
+2025-10,United States,Platform Commissions,Sales,475128.31
+2025-10,Germany,Advertising & Marketing,Marketing,863600.06
+2025-10,Germany,R&D,R&D,416910.0
+2025-10,Germany,Admin & General,Finance,194189.86
+2025-10,Germany,Logistics & Warehousing,Operations,238108.92
+2025-10,Germany,After-sales Service,Operations,92287.03
+2025-10,Germany,Platform Commissions,Sales,123806.54
+2025-10,United Kingdom,Advertising & Marketing,Marketing,399378.63
+2025-10,United Kingdom,R&D,R&D,235823.77
+2025-10,United Kingdom,Admin & General,Finance,115577.07
+2025-10,United Kingdom,Logistics & Warehousing,Operations,149401.25
+2025-10,United Kingdom,After-sales Service,Operations,53417.6
+2025-10,United Kingdom,Platform Commissions,Sales,75041.32
+2025-10,Japan,Advertising & Marketing,Marketing,702550.66
+2025-10,Japan,R&D,R&D,400492.81
+2025-10,Japan,Admin & General,Finance,164670.94
+2025-10,Japan,Logistics & Warehousing,Operations,262492.7
+2025-10,Japan,After-sales Service,Operations,66046.46
+2025-10,Japan,Platform Commissions,Sales,107146.18
+2025-10,Rest of Europe,Advertising & Marketing,Marketing,688083.67
+2025-10,Rest of Europe,R&D,R&D,358365.33
+2025-10,Rest of Europe,Admin & General,Finance,184867.37
+2025-10,Rest of Europe,Logistics & Warehousing,Operations,230846.22
+2025-10,Rest of Europe,After-sales Service,Operations,65467.25
+2025-10,Rest of Europe,Platform Commissions,Sales,94273.67
+2025-10,Rest of Asia,Advertising & Marketing,Marketing,632296.72
+2025-10,Rest of Asia,R&D,R&D,240616.76
+2025-10,Rest of Asia,Admin & General,Finance,135267.22
+2025-10,Rest of Asia,Logistics & Warehousing,Operations,132627.87
+2025-10,Rest of Asia,After-sales Service,Operations,49156.88
+2025-10,Rest of Asia,Platform Commissions,Sales,74891.47
+2025-11,China,Advertising & Marketing,Marketing,9932814.88
+2025-11,China,R&D,R&D,3451150.21
+2025-11,China,Admin & General,Finance,2410488.3
+2025-11,China,Logistics & Warehousing,Operations,2623100.23
+2025-11,China,After-sales Service,Operations,979200.09
+2025-11,China,Platform Commissions,Sales,1275222.79
+2025-11,United States,Advertising & Marketing,Marketing,3122282.49
+2025-11,United States,R&D,R&D,1660474.86
+2025-11,United States,Admin & General,Finance,763767.9
+2025-11,United States,Logistics & Warehousing,Operations,1016253.48
+2025-11,United States,After-sales Service,Operations,300691.31
+2025-11,United States,Platform Commissions,Sales,418269.46
+2025-11,Germany,Advertising & Marketing,Marketing,1114650.47
+2025-11,Germany,R&D,R&D,440275.06
+2025-11,Germany,Admin & General,Finance,248397.64
+2025-11,Germany,Logistics & Warehousing,Operations,339948.32
+2025-11,Germany,After-sales Service,Operations,94945.52
+2025-11,Germany,Platform Commissions,Sales,139228.17
+2025-11,United Kingdom,Advertising & Marketing,Marketing,646596.79
+2025-11,United Kingdom,R&D,R&D,351489.0
+2025-11,United Kingdom,Admin & General,Finance,139589.27
+2025-11,United Kingdom,Logistics & Warehousing,Operations,194624.44
+2025-11,United Kingdom,After-sales Service,Operations,52274.77
+2025-11,United Kingdom,Platform Commissions,Sales,91114.52
+2025-11,Japan,Advertising & Marketing,Marketing,888236.55
+2025-11,Japan,R&D,R&D,404778.3
+2025-11,Japan,Admin & General,Finance,211188.85
+2025-11,Japan,Logistics & Warehousing,Operations,237672.27
+2025-11,Japan,After-sales Service,Operations,89203.18
+2025-11,Japan,Platform Commissions,Sales,146798.95
+2025-11,Rest of Europe,Advertising & Marketing,Marketing,788088.59
+2025-11,Rest of Europe,R&D,R&D,415044.64
+2025-11,Rest of Europe,Admin & General,Finance,232423.64
+2025-11,Rest of Europe,Logistics & Warehousing,Operations,310157.51
+2025-11,Rest of Europe,After-sales Service,Operations,75303.03
+2025-11,Rest of Europe,Platform Commissions,Sales,130540.16
+2025-11,Rest of Asia,Advertising & Marketing,Marketing,650194.08
+2025-11,Rest of Asia,R&D,R&D,312919.5
+2025-11,Rest of Asia,Admin & General,Finance,118921.59
+2025-11,Rest of Asia,Logistics & Warehousing,Operations,207492.33
+2025-11,Rest of Asia,After-sales Service,Operations,72835.84
+2025-11,Rest of Asia,Platform Commissions,Sales,95950.26
+2025-12,China,Advertising & Marketing,Marketing,8345132.06
+2025-12,China,R&D,R&D,4413543.43
+2025-12,China,Admin & General,Finance,2737837.0
+2025-12,China,Logistics & Warehousing,Operations,3172251.46
+2025-12,China,After-sales Service,Operations,990004.21
+2025-12,China,Platform Commissions,Sales,1445422.89
+2025-12,United States,Advertising & Marketing,Marketing,3128173.44
+2025-12,United States,R&D,R&D,1641222.99
+2025-12,United States,Admin & General,Finance,830882.17
+2025-12,United States,Logistics & Warehousing,Operations,1104286.55
+2025-12,United States,After-sales Service,Operations,385506.19
+2025-12,United States,Platform Commissions,Sales,558634.77
+2025-12,Germany,Advertising & Marketing,Marketing,851611.46
+2025-12,Germany,R&D,R&D,507357.03
+2025-12,Germany,Admin & General,Finance,266401.36
+2025-12,Germany,Logistics & Warehousing,Operations,329344.93
+2025-12,Germany,After-sales Service,Operations,93003.26
+2025-12,Germany,Platform Commissions,Sales,192255.5
+2025-12,United Kingdom,Advertising & Marketing,Marketing,541084.05
+2025-12,United Kingdom,R&D,R&D,276555.73
+2025-12,United Kingdom,Admin & General,Finance,158697.95
+2025-12,United Kingdom,Logistics & Warehousing,Operations,234877.35
+2025-12,United Kingdom,After-sales Service,Operations,56843.25
+2025-12,United Kingdom,Platform Commissions,Sales,90571.87
+2025-12,Japan,Advertising & Marketing,Marketing,961977.18
+2025-12,Japan,R&D,R&D,433435.69
+2025-12,Japan,Admin & General,Finance,209841.2
+2025-12,Japan,Logistics & Warehousing,Operations,286732.31
+2025-12,Japan,After-sales Service,Operations,89208.86
+2025-12,Japan,Platform Commissions,Sales,143686.23
+2025-12,Rest of Europe,Advertising & Marketing,Marketing,980576.64
+2025-12,Rest of Europe,R&D,R&D,447541.7
+2025-12,Rest of Europe,Admin & General,Finance,223439.32
+2025-12,Rest of Europe,Logistics & Warehousing,Operations,277192.64
+2025-12,Rest of Europe,After-sales Service,Operations,91089.98
+2025-12,Rest of Europe,Platform Commissions,Sales,130982.06
+2025-12,Rest of Asia,Advertising & Marketing,Marketing,620264.09
+2025-12,Rest of Asia,R&D,R&D,347264.42
+2025-12,Rest of Asia,Admin & General,Finance,178586.7
+2025-12,Rest of Asia,Logistics & Warehousing,Operations,164621.27
+2025-12,Rest of Asia,After-sales Service,Operations,62092.34
+2025-12,Rest of Asia,Platform Commissions,Sales,86637.3
+2026-01,China,Advertising & Marketing,Marketing,5298687.48
+2026-01,China,R&D,R&D,2844438.03
+2026-01,China,Admin & General,Finance,1458712.28
+2026-01,China,Logistics & Warehousing,Operations,1689822.14
+2026-01,China,After-sales Service,Operations,442239.2
+2026-01,China,Platform Commissions,Sales,741148.6
+2026-01,United States,Advertising & Marketing,Marketing,2145248.37
+2026-01,United States,R&D,R&D,714614.27
+2026-01,United States,Admin & General,Finance,550631.18
+2026-01,United States,Logistics & Warehousing,Operations,647302.24
+2026-01,United States,After-sales Service,Operations,222787.22
+2026-01,United States,Platform Commissions,Sales,289448.5
+2026-01,Germany,Advertising & Marketing,Marketing,463084.68
+2026-01,Germany,R&D,R&D,304218.91
+2026-01,Germany,Admin & General,Finance,164422.02
+2026-01,Germany,Logistics & Warehousing,Operations,199148.57
+2026-01,Germany,After-sales Service,Operations,54467.63
+2026-01,Germany,Platform Commissions,Sales,88259.16
+2026-01,United Kingdom,Advertising & Marketing,Marketing,345157.01
+2026-01,United Kingdom,R&D,R&D,167357.12
+2026-01,United Kingdom,Admin & General,Finance,99853.8
+2026-01,United Kingdom,Logistics & Warehousing,Operations,100288.53
+2026-01,United Kingdom,After-sales Service,Operations,33199.63
+2026-01,United Kingdom,Platform Commissions,Sales,48649.86
+2026-01,Japan,Advertising & Marketing,Marketing,434351.95
+2026-01,Japan,R&D,R&D,258944.95
+2026-01,Japan,Admin & General,Finance,142425.43
+2026-01,Japan,Logistics & Warehousing,Operations,156556.33
+2026-01,Japan,After-sales Service,Operations,43356.08
+2026-01,Japan,Platform Commissions,Sales,82993.33
+2026-01,Rest of Europe,Advertising & Marketing,Marketing,596457.69
+2026-01,Rest of Europe,R&D,R&D,238715.69
+2026-01,Rest of Europe,Admin & General,Finance,121497.61
+2026-01,Rest of Europe,Logistics & Warehousing,Operations,167730.26
+2026-01,Rest of Europe,After-sales Service,Operations,59319.98
+2026-01,Rest of Europe,Platform Commissions,Sales,72582.52
+2026-01,Rest of Asia,Advertising & Marketing,Marketing,316004.44
+2026-01,Rest of Asia,R&D,R&D,193801.9
+2026-01,Rest of Asia,Admin & General,Finance,98429.01
+2026-01,Rest of Asia,Logistics & Warehousing,Operations,114002.15
+2026-01,Rest of Asia,After-sales Service,Operations,34423.47
+2026-01,Rest of Asia,Platform Commissions,Sales,60125.51
+2026-02,China,Advertising & Marketing,Marketing,5474545.16
+2026-02,China,R&D,R&D,2400192.05
+2026-02,China,Admin & General,Finance,1306374.31
+2026-02,China,Logistics & Warehousing,Operations,1405338.91
+2026-02,China,After-sales Service,Operations,555662.9
+2026-02,China,Platform Commissions,Sales,759541.13
+2026-02,United States,Advertising & Marketing,Marketing,1790423.96
+2026-02,United States,R&D,R&D,932917.23
+2026-02,United States,Admin & General,Finance,469883.52
+2026-02,United States,Logistics & Warehousing,Operations,637349.5
+2026-02,United States,After-sales Service,Operations,198264.0
+2026-02,United States,Platform Commissions,Sales,276406.33
+2026-02,Germany,Advertising & Marketing,Marketing,597021.13
+2026-02,Germany,R&D,R&D,288445.34
+2026-02,Germany,Admin & General,Finance,132750.34
+2026-02,Germany,Logistics & Warehousing,Operations,171170.5
+2026-02,Germany,After-sales Service,Operations,54644.19
+2026-02,Germany,Platform Commissions,Sales,87403.24
+2026-02,United Kingdom,Advertising & Marketing,Marketing,333941.17
+2026-02,United Kingdom,R&D,R&D,166565.22
+2026-02,United Kingdom,Admin & General,Finance,103728.59
+2026-02,United Kingdom,Logistics & Warehousing,Operations,118513.07
+2026-02,United Kingdom,After-sales Service,Operations,32029.72
+2026-02,United Kingdom,Platform Commissions,Sales,54968.56
+2026-02,Japan,Advertising & Marketing,Marketing,491074.25
+2026-02,Japan,R&D,R&D,252166.76
+2026-02,Japan,Admin & General,Finance,122998.99
+2026-02,Japan,Logistics & Warehousing,Operations,169708.54
+2026-02,Japan,After-sales Service,Operations,50210.44
+2026-02,Japan,Platform Commissions,Sales,72347.55
+2026-02,Rest of Europe,Advertising & Marketing,Marketing,535911.03
+2026-02,Rest of Europe,R&D,R&D,248326.19
+2026-02,Rest of Europe,Admin & General,Finance,122806.52
+2026-02,Rest of Europe,Logistics & Warehousing,Operations,156428.38
+2026-02,Rest of Europe,After-sales Service,Operations,48078.72
+2026-02,Rest of Europe,Platform Commissions,Sales,72866.73
+2026-02,Rest of Asia,Advertising & Marketing,Marketing,326325.92
+2026-02,Rest of Asia,R&D,R&D,160312.12
+2026-02,Rest of Asia,Admin & General,Finance,78011.91
+2026-02,Rest of Asia,Logistics & Warehousing,Operations,93252.94
+2026-02,Rest of Asia,After-sales Service,Operations,31616.79
+2026-02,Rest of Asia,Platform Commissions,Sales,51093.5
+2026-03,China,Advertising & Marketing,Marketing,6499093.86
+2026-03,China,R&D,R&D,3129121.1
+2026-03,China,Admin & General,Finance,1229348.27
+2026-03,China,Logistics & Warehousing,Operations,2326767.04
+2026-03,China,After-sales Service,Operations,713166.75
+2026-03,China,Platform Commissions,Sales,1007926.11
+2026-03,United States,Advertising & Marketing,Marketing,2757529.41
+2026-03,United States,R&D,R&D,1044728.25
+2026-03,United States,Admin & General,Finance,688232.24
+2026-03,United States,Logistics & Warehousing,Operations,653834.44
+2026-03,United States,After-sales Service,Operations,237108.07
+2026-03,United States,Platform Commissions,Sales,303119.91
+2026-03,Germany,Advertising & Marketing,Marketing,687169.4
+2026-03,Germany,R&D,R&D,356329.2
+2026-03,Germany,Admin & General,Finance,168886.73
+2026-03,Germany,Logistics & Warehousing,Operations,229732.7
+2026-03,Germany,After-sales Service,Operations,69295.51
+2026-03,Germany,Platform Commissions,Sales,97547.26
+2026-03,United Kingdom,Advertising & Marketing,Marketing,404542.89
+2026-03,United Kingdom,R&D,R&D,231813.41
+2026-03,United Kingdom,Admin & General,Finance,100203.74
+2026-03,United Kingdom,Logistics & Warehousing,Operations,146283.7
+2026-03,United Kingdom,After-sales Service,Operations,48128.68
+2026-03,United Kingdom,Platform Commissions,Sales,53593.17
+2026-03,Japan,Advertising & Marketing,Marketing,668410.89
+2026-03,Japan,R&D,R&D,362048.47
+2026-03,Japan,Admin & General,Finance,153880.27
+2026-03,Japan,Logistics & Warehousing,Operations,198862.34
+2026-03,Japan,After-sales Service,Operations,66265.19
+2026-03,Japan,Platform Commissions,Sales,87577.69
+2026-03,Rest of Europe,Advertising & Marketing,Marketing,611334.95
+2026-03,Rest of Europe,R&D,R&D,260743.82
+2026-03,Rest of Europe,Admin & General,Finance,152178.63
+2026-03,Rest of Europe,Logistics & Warehousing,Operations,196967.88
+2026-03,Rest of Europe,After-sales Service,Operations,63138.1
+2026-03,Rest of Europe,Platform Commissions,Sales,99653.72
+2026-03,Rest of Asia,Advertising & Marketing,Marketing,395623.27
+2026-03,Rest of Asia,R&D,R&D,203004.92
+2026-03,Rest of Asia,Admin & General,Finance,127534.92
+2026-03,Rest of Asia,Logistics & Warehousing,Operations,132001.21
+2026-03,Rest of Asia,After-sales Service,Operations,43742.92
+2026-03,Rest of Asia,Platform Commissions,Sales,63896.55
+2026-04,China,Advertising & Marketing,Marketing,6368834.68
+2026-04,China,R&D,R&D,4032782.83
+2026-04,China,Admin & General,Finance,1643206.74
+2026-04,China,Logistics & Warehousing,Operations,1923992.38
+2026-04,China,After-sales Service,Operations,662623.03
+2026-04,China,Platform Commissions,Sales,832502.3
+2026-04,United States,Advertising & Marketing,Marketing,5137759.93
+2026-04,United States,R&D,R&D,1128098.63
+2026-04,United States,Admin & General,Finance,663068.93
+2026-04,United States,Logistics & Warehousing,Operations,728068.15
+2026-04,United States,After-sales Service,Operations,271981.65
+2026-04,United States,Platform Commissions,Sales,427107.97
+2026-04,Germany,Advertising & Marketing,Marketing,797979.35
+2026-04,Germany,R&D,R&D,362108.85
+2026-04,Germany,Admin & General,Finance,187651.15
+2026-04,Germany,Logistics & Warehousing,Operations,196027.07
+2026-04,Germany,After-sales Service,Operations,73025.81
+2026-04,Germany,Platform Commissions,Sales,101471.05
+2026-04,United Kingdom,Advertising & Marketing,Marketing,494719.46
+2026-04,United Kingdom,R&D,R&D,290807.72
+2026-04,United Kingdom,Admin & General,Finance,121430.42
+2026-04,United Kingdom,Logistics & Warehousing,Operations,115778.06
+2026-04,United Kingdom,After-sales Service,Operations,44588.94
+2026-04,United Kingdom,Platform Commissions,Sales,70239.95
+2026-04,Japan,Advertising & Marketing,Marketing,653297.51
+2026-04,Japan,R&D,R&D,300154.76
+2026-04,Japan,Admin & General,Finance,165881.49
+2026-04,Japan,Logistics & Warehousing,Operations,177240.81
+2026-04,Japan,After-sales Service,Operations,58644.38
+2026-04,Japan,Platform Commissions,Sales,103419.65
+2026-04,Rest of Europe,Advertising & Marketing,Marketing,581861.5
+2026-04,Rest of Europe,R&D,R&D,341248.31
+2026-04,Rest of Europe,Admin & General,Finance,139736.99
+2026-04,Rest of Europe,Logistics & Warehousing,Operations,238105.33
+2026-04,Rest of Europe,After-sales Service,Operations,59749.51
+2026-04,Rest of Europe,Platform Commissions,Sales,94973.15
+2026-04,Rest of Asia,Advertising & Marketing,Marketing,477894.09
+2026-04,Rest of Asia,R&D,R&D,218223.42
+2026-04,Rest of Asia,Admin & General,Finance,117308.47
+2026-04,Rest of Asia,Logistics & Warehousing,Operations,152879.98
+2026-04,Rest of Asia,After-sales Service,Operations,50703.79
+2026-04,Rest of Asia,Platform Commissions,Sales,74882.19
+2026-05,China,Advertising & Marketing,Marketing,7333769.79
+2026-05,China,R&D,R&D,3676279.03
+2026-05,China,Admin & General,Finance,2303718.27
+2026-05,China,Logistics & Warehousing,Operations,2553368.47
+2026-05,China,After-sales Service,Operations,677411.19
+2026-05,China,Platform Commissions,Sales,1130487.78
+2026-05,United States,Advertising & Marketing,Marketing,2596280.89
+2026-05,United States,R&D,R&D,1324977.89
+2026-05,United States,Admin & General,Finance,589007.54
+2026-05,United States,Logistics & Warehousing,Operations,804892.3
+2026-05,United States,After-sales Service,Operations,317295.09
+2026-05,United States,Platform Commissions,Sales,426280.3
+2026-05,Germany,Advertising & Marketing,Marketing,597661.45
+2026-05,Germany,R&D,R&D,446394.15
+2026-05,Germany,Admin & General,Finance,220668.08
+2026-05,Germany,Logistics & Warehousing,Operations,239795.88
+2026-05,Germany,After-sales Service,Operations,85303.41
+2026-05,Germany,Platform Commissions,Sales,109131.09
+2026-05,United Kingdom,Advertising & Marketing,Marketing,474071.38
+2026-05,United Kingdom,R&D,R&D,286006.19
+2026-05,United Kingdom,Admin & General,Finance,120986.83
+2026-05,United Kingdom,Logistics & Warehousing,Operations,126391.36
+2026-05,United Kingdom,After-sales Service,Operations,49431.58
+2026-05,United Kingdom,Platform Commissions,Sales,74033.32
+2026-05,Japan,Advertising & Marketing,Marketing,779911.43
+2026-05,Japan,R&D,R&D,348724.7
+2026-05,Japan,Admin & General,Finance,166772.45
+2026-05,Japan,Logistics & Warehousing,Operations,240385.62
+2026-05,Japan,After-sales Service,Operations,70486.34
+2026-05,Japan,Platform Commissions,Sales,96632.33
+2026-05,Rest of Europe,Advertising & Marketing,Marketing,776890.85
+2026-05,Rest of Europe,R&D,R&D,354969.26
+2026-05,Rest of Europe,Admin & General,Finance,174163.68
+2026-05,Rest of Europe,Logistics & Warehousing,Operations,221512.93
+2026-05,Rest of Europe,After-sales Service,Operations,62188.41
+2026-05,Rest of Europe,Platform Commissions,Sales,98955.37
+2026-05,Rest of Asia,Advertising & Marketing,Marketing,497643.18
+2026-05,Rest of Asia,R&D,R&D,243890.56
+2026-05,Rest of Asia,Admin & General,Finance,140190.95
+2026-05,Rest of Asia,Logistics & Warehousing,Operations,158837.54
+2026-05,Rest of Asia,After-sales Service,Operations,53999.34
+2026-05,Rest of Asia,Platform Commissions,Sales,74689.85
+2026-06,China,Advertising & Marketing,Marketing,9289763.12
+2026-06,China,R&D,R&D,4368128.15
+2026-06,China,Admin & General,Finance,2103380.0
+2026-06,China,Logistics & Warehousing,Operations,2622213.44
+2026-06,China,After-sales Service,Operations,760030.12
+2026-06,China,Platform Commissions,Sales,1324225.01
+2026-06,United States,Advertising & Marketing,Marketing,3012646.6
+2026-06,United States,R&D,R&D,1436482.42
+2026-06,United States,Admin & General,Finance,839872.79
+2026-06,United States,Logistics & Warehousing,Operations,827075.45
+2026-06,United States,After-sales Service,Operations,289701.09
+2026-06,United States,Platform Commissions,Sales,500350.94
+2026-06,Germany,Advertising & Marketing,Marketing,924517.74
+2026-06,Germany,R&D,R&D,445975.02
+2026-06,Germany,Admin & General,Finance,229683.82
+2026-06,Germany,Logistics & Warehousing,Operations,285099.73
+2026-06,Germany,After-sales Service,Operations,76031.01
+2026-06,Germany,Platform Commissions,Sales,129740.57
+2026-06,United Kingdom,Advertising & Marketing,Marketing,650698.98
+2026-06,United Kingdom,R&D,R&D,261608.79
+2026-06,United Kingdom,Admin & General,Finance,135579.99
+2026-06,United Kingdom,Logistics & Warehousing,Operations,165565.85
+2026-06,United Kingdom,After-sales Service,Operations,55527.54
+2026-06,United Kingdom,Platform Commissions,Sales,79122.9
+2026-06,Japan,Advertising & Marketing,Marketing,822380.15
+2026-06,Japan,R&D,R&D,399841.46
+2026-06,Japan,Admin & General,Finance,211217.94
+2026-06,Japan,Logistics & Warehousing,Operations,219310.51
+2026-06,Japan,After-sales Service,Operations,75751.96
+2026-06,Japan,Platform Commissions,Sales,114976.21
+2026-06,Rest of Europe,Advertising & Marketing,Marketing,819941.68
+2026-06,Rest of Europe,R&D,R&D,361002.13
+2026-06,Rest of Europe,Admin & General,Finance,214003.96
+2026-06,Rest of Europe,Logistics & Warehousing,Operations,274140.39
+2026-06,Rest of Europe,After-sales Service,Operations,70666.11
+2026-06,Rest of Europe,Platform Commissions,Sales,111857.21
+2026-06,Rest of Asia,Advertising & Marketing,Marketing,530353.46
+2026-06,Rest of Asia,R&D,R&D,353801.29
+2026-06,Rest of Asia,Admin & General,Finance,134017.19
+2026-06,Rest of Asia,Logistics & Warehousing,Operations,204413.03
+2026-06,Rest of Asia,After-sales Service,Operations,48919.92
+2026-06,Rest of Asia,Platform Commissions,Sales,75707.15

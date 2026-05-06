@@ -1,0 +1,7 @@
+account_key,account_name,account_type,department
+1,Advertising & Marketing,Expense,Marketing
+2,R&D,Expense,R&D
+3,Admin & General,Expense,Finance
+4,Logistics & Warehousing,Expense,Operations
+5,After-sales Service,Expense,Operations
+6,Platform Commissions,Expense,Sales

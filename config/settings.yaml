@@ -1,0 +1,23 @@
+# Finance BI Multi-Agent Copilot 配置
+
+data:
+  start_month: "2025-01"
+  end_month: "2026-06"
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  powerbi_dir: "data/powerbi"
+  output_dir: "outputs"
+
+llm:
+  provider: "mimo"  # mimo / deepseek / gemini
+  model: "mimo-v2.5-pro"
+  base_url: "https://token-plan-cn.xiaomimimo.com/v1"
+  max_tokens: 4000
+  temperature: 0.3
+
+cache:
+  enabled: true
+  dir: "cache"
+
+pipeline:
+  target_month: "2026-04"

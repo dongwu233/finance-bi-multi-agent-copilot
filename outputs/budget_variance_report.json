@@ -1,0 +1,145 @@
+{
+  "month": "2026-06",
+  "summary": {
+    "total_actual_revenue": 174858979.1,
+    "total_budget_revenue": 148137210.97,
+    "revenue_variance": 26721768.13,
+    "revenue_achievement_pct": 118.04,
+    "total_actual_profit": 45634130.25,
+    "total_budget_profit": 52040602.22,
+    "profit_variance": -6406471.97
+  },
+  "by_market": [
+    {
+      "market": "China",
+      "actual_revenue": 89733856.13,
+      "budget_revenue": 74068605.48,
+      "revenue_variance_pct": 21.15,
+      "profit_variance_pct": -16.64
+    },
+    {
+      "market": "Germany",
+      "actual_revenue": 14784239.67,
+      "budget_revenue": 11850976.88,
+      "revenue_variance_pct": 24.75,
+      "profit_variance_pct": 19.34
+    },
+    {
+      "market": "Japan",
+      "actual_revenue": 11126366.08,
+      "budget_revenue": 10369604.77,
+      "revenue_variance_pct": 7.3,
+      "profit_variance_pct": -6.89
+    },
+    {
+      "market": "Rest of Asia",
+      "actual_revenue": 8956000.89,
+      "budget_revenue": 7406860.54,
+      "revenue_variance_pct": 20.91,
+      "profit_variance_pct": 11.98
+    },
+    {
+      "market": "Rest of Europe",
+      "actual_revenue": 11242529.73,
+      "budget_revenue": 10369604.77,
+      "revenue_variance_pct": 8.42,
+      "profit_variance_pct": -14.8
+    },
+    {
+      "market": "United Kingdom",
+      "actual_revenue": 9133109.42,
+      "budget_revenue": 7406860.54,
+      "revenue_variance_pct": 23.31,
+      "profit_variance_pct": 15.83
+    },
+    {
+      "market": "United States",
+      "actual_revenue": 29882877.18,
+      "budget_revenue": 26664697.99,
+      "revenue_variance_pct": 12.07,
+      "profit_variance_pct": -30.05
+    }
+  ],
+  "top_over_budget": [
+    {
+      "month": "2026-04",
+      "market": "United States",
+      "expense_type": "Advertising & Marketing",
+      "actual": 5137759.93,
+      "budget": 781522.73,
+      "variance_pct": 557.4
+    },
+    {
+      "month": "2025-11",
+      "market": "China",
+      "expense_type": "Advertising & Marketing",
+      "actual": 9932814.88,
+      "budget": 2048086.76,
+      "variance_pct": 384.98
+    },
+    {
+      "month": "2025-11",
+      "market": "United States",
+      "expense_type": "Advertising & Marketing",
+      "actual": 3122282.49,
+      "budget": 737311.23,
+      "variance_pct": 323.47
+    },
+    {
+      "month": "2025-12",
+      "market": "United States",
+      "expense_type": "Advertising & Marketing",
+      "actual": 3128173.44,
+      "budget": 745948.77,
+      "variance_pct": 319.35
+    },
+    {
+      "month": "2026-06",
+      "market": "China",
+      "expense_type": "Advertising & Marketing",
+      "actual": 9289763.12,
+      "budget": 2222058.17,
+      "variance_pct": 318.07
+    },
+    {
+      "month": "2025-12",
+      "market": "China",
+      "expense_type": "Advertising & Marketing",
+      "actual": 8345132.06,
+      "budget": 2072079.92,
+      "variance_pct": 302.74
+    },
+    {
+      "month": "2025-10",
+      "market": "China",
+      "expense_type": "Advertising & Marketing",
+      "actual": 8040083.5,
+      "budget": 2024371.41,
+      "variance_pct": 297.16
+    },
+    {
+      "month": "2025-06",
+      "market": "China",
+      "expense_type": "Advertising & Marketing",
+      "actual": 7606388.24,
+      "budget": 1932224.49,
+      "variance_pct": 293.66
+    },
+    {
+      "month": "2026-06",
+      "market": "United States",
+      "expense_type": "Advertising & Marketing",
+      "actual": 3012646.6,
+      "budget": 799940.94,
+      "variance_pct": 276.61
+    },
+    {
+      "month": "2025-07",
+      "market": "United States",
+      "expense_type": "Advertising & Marketing",
+      "actual": 2584933.59,
+      "budget": 703749.72,
+      "variance_pct": 267.31
+    }
+  ]
+}
