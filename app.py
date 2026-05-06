@@ -12,7 +12,12 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-# 加载 .env
+# 加载环境变量：优先 Streamlit Cloud secrets，其次本地 .env
+if hasattr(st, 'secrets'):
+    for key in ["LLM_API_KEY", "LLM_BASE_URL", "LLM_MODEL"]:
+        if key in st.secrets:
+            os.environ.setdefault(key, str(st.secrets[key]))
+
 env_path = Path(__file__).parent / ".env"
 if env_path.exists():
     for line in env_path.read_text().splitlines():
